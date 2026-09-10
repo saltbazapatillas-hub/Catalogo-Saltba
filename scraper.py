@@ -80,16 +80,12 @@ def is_footwear(name: str, desc: str) -> bool:
 # N u. ·
 #  M talles $ PRECIO
 
-BLOCK_RE = re.compile(
-    r"!\[\]\((?P<img>[^)]+)\)\s*"
-    r"(?P<code>[A-Za-z0-9\-]+)\s*"
-    r"\[(?P<name>[^\]]+)\]\((?P<link>[^)]+)\)\s*"
-    r"(?P<desc>[^\n]+)\n"
-    r"(?P<body>.*?)"
-    r"(?=!\[\]\(|\Z)",
-    re.S,
-)
-
+# El código de producto (ej "BK0005-29") es el ancla más confiable: a diferencia
+# de la imagen, siempre aparece como texto plano aunque la imagen todavía no se
+# haya cargado (muchos catálogos cargan las fotos de a poco al scrollear).
+CODE_RE = re.compile(r"(?m)^\s*([A-Za-z]{1,4}\d{3,6}-\d+)\s*$")
+LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
+IMG_RE = re.compile(r"!\[[^\]]*\]\(([^)]+)\)")
 SIZE_RE = re.compile(r"\*\*([^*]+)\*\*\s*(\d+)")
 PRICE_RE = re.compile(r"\$\s*([\d.]+)")
 UNITS_RE = re.compile(r"(\d+)\s*u\.")
@@ -98,30 +94,56 @@ TALLES_RE = re.compile(r"(\d+)\s*talles?")
 
 def parse_catalog(markdown_text: str):
     products = []
-    for m in BLOCK_RE.finditer(markdown_text):
-        name = m.group("name").strip()
-        desc = m.group("desc").strip(" ·\n")
-        body = m.group("body")
+    codes = list(CODE_RE.finditer(markdown_text))
 
-        sizes = {talle.strip(): int(qty) for talle, qty in SIZE_RE.findall(body)}
-        price_match = PRICE_RE.search(body)
-        units_match = UNITS_RE.search(body)
-        talles_match = TALLES_RE.search(body)
+    for i, code_match in enumerate(codes):
+        start = code_match.start()
+        end = codes[i + 1].start() if i + 1 < len(codes) else len(markdown_text)
+        block = markdown_text[start:end]
+        code = code_match.group(1)
+
+        link_match = LINK_RE.search(block)
+        if not link_match:
+            # Sin nombre/link no hay forma de identificar el producto: se salta.
+            continue
+        name = link_match.group(1).strip()
+        link = link_match.group(2).strip()
+
+        # La descripción (Color · Modelo · Genero) suele estar en la primera
+        # línea con contenido, entre el código y el link.
+        before_link = block[: link_match.start()]
+        desc_candidates = [l.strip() for l in before_link.splitlines() if l.strip()]
+        desc = desc_candidates[-1] if desc_candidates else ""
+        # A veces la descripción viene DESPUÉS del link en vez de antes.
+        if not desc:
+            after_link = block[link_match.end():]
+            after_lines = [l.strip() for l in after_link.splitlines() if l.strip()]
+            desc = after_lines[0] if after_lines else ""
 
         if not is_footwear(name, desc):
             continue
 
-        # desc suele ser "Color · Modelo · Genero" (genero es opcional)
+        # La imagen puede estar en este bloque o, si venía "pegada" al
+        # producto anterior en el texto, justo antes del código.
+        search_zone = markdown_text[max(0, start - 500):end]
+        imgs = IMG_RE.findall(search_zone)
+        img = imgs[-1] if imgs else ""
+
+        sizes = {talle.strip(): int(qty) for talle, qty in SIZE_RE.findall(block)}
+        price_match = PRICE_RE.search(block)
+        units_match = UNITS_RE.search(block)
+        talles_match = TALLES_RE.search(block)
+
         parts = [p.strip() for p in desc.split("·")]
         color = parts[0] if len(parts) > 0 else ""
         modelo = parts[1] if len(parts) > 1 else name
         genero = parts[2] if len(parts) > 2 else ""
 
         products.append({
-            "codigo": m.group("code").strip(),
+            "codigo": code,
             "nombre": name,
-            "link": m.group("link").strip(),
-            "imagen": m.group("img").strip(),
+            "link": link,
+            "imagen": img,
             "color": color,
             "modelo": modelo,
             "genero": genero,
@@ -143,7 +165,9 @@ def main():
     text = html_to_md(resp.text)
 
     print("Parseando productos...")
+    total_codes = len(CODE_RE.findall(text))
     products = parse_catalog(text)
+    print(f"  -> {total_codes} códigos de producto detectados en total")
     print(f"  -> {len(products)} productos de calzado encontrados")
 
     data = {
