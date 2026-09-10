@@ -48,13 +48,16 @@ EXCLUDE_KEYWORDS = [
     "fjallraven", "goorin", "hydro", "cartus", "vilelmo", "jibbitz", "nordik",
     "lah51020", "lab53511", "lab53514", "lab53516", "lab53517", "lab53515",
     "lab51522", "lab51523", "lab51524", "speedo", "thayer", "timberpack",
-    "gorra", "luca", "xaff", "capsio", "persa", "by", "aslan", "vart club", "explore", "grow", "friends", 
-    "hugo", "morris", "alaska", "esquel", "vancouver", "vr surf", "paraiso", "calavera", "esencial", 
-    "pack", "aromatizador", "jogging", "hunter", "logo", "freaky", "calavart", "lima", "freedom",
+    "gorra", "luca", "xaff", "capsio", "persa", "by", "aslan", "vart club", "explore", "grow", "friends",
+    "hugo", "morris", "alaska", "esquel", "vancouver", "vr surf", "paraiso", "calavera", "esencial",
+    "pack", "aromatizador", "jogging", "hunter", "freaky", "calavart", "freedom",
     "desierto", "landers", "f-you", "cool", "ulises", "valentino", "esteroids", "cava", "bolson",
-    "claromeco", "xero", "acid", "piluso", 
-   # "Caja X" en la lista de marcas suele ser accesorios/embalaje
-   
+    "claromeco", "xero", "acid", "piluso",
+    # "Caja X" en la lista de marcas suele ser accesorios/embalaje.
+    # OJO con estas palabras: son cortas y genéricas, revisá de vez en cuando
+    # si no te están sacando calzado real por casualidad ("logo" y "lima" se
+    # sacaron de esta lista porque excluían ojotas Havaianas Logomania/Slim
+    # Logo Metallic, y sandalias color "Lima").
 ]
 
 
