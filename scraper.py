@@ -52,7 +52,8 @@ EXCLUDE_KEYWORDS = [
     "Hugo", "Morris", "Alaska", "Esquel", "Vancouver", "VR surf", "paraiso", "Calavera", "Esencial", 
     "Pack", "Aromatizador", "Jogging", "Hunter", "logo", "freaky", "calavart", "Lima", "Freedom",
     "Desierto", "Landers", "F-you", "Cool", "ulises", "Valentino", "Esteroids", "cava", "Bolson",
-    "Claromeco", "xero", "acid", "piluso", # "Caja X" en la lista de marcas suele ser accesorios/embalaje
+    "Claromeco", "xero", "acid", "piluso", 
+   # "Caja X" en la lista de marcas suele ser accesorios/embalaje
    
 ]
 
