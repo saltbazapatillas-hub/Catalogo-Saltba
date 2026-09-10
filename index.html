@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Catálogo de calzado</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#efe9dd;
+    --surface:#fbf8f2;
+    --ink:#211f1a;
+    --muted:#867e6f;
+    --line:#ddd4c2;
+    --accent:#2f5233;
+    --accent-soft:#e4ebe1;
+    --tag:#b5652d;
+    --radius:10px;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:var(--bg);
+    color:var(--ink);
+    font-family:'Inter',system-ui,sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  header{
+    padding:28px clamp(16px,4vw,48px) 18px;
+    border-bottom:1px solid var(--line);
+    background:var(--bg);
+    position:sticky;
+    top:0;
+    z-index:10;
+  }
+  .titlebar{
+    display:flex;
+    align-items:baseline;
+    justify-content:space-between;
+    flex-wrap:wrap;
+    gap:8px;
+    margin-bottom:18px;
+  }
+  h1{
+    font-family:'Roboto Slab',serif;
+    font-weight:700;
+    font-size:clamp(22px,3vw,30px);
+    margin:0;
+    letter-spacing:-0.01em;
+  }
+  #meta{
+    font-size:13px;
+    color:var(--muted);
+  }
+  .controls{
+    display:flex;
+    flex-wrap:wrap;
+    gap:10px;
+  }
+  .controls input,.controls select{
+    font-family:inherit;
+    font-size:14px;
+    padding:10px 12px;
+    border:1px solid var(--line);
+    border-radius:8px;
+    background:var(--surface);
+    color:var(--ink);
+  }
+  #search{flex:1 1 220px;min-width:180px;}
+  #brand{flex:0 0 auto;}
+  #sort{flex:0 0 auto;}
+  main{
+    padding:22px clamp(16px,4vw,48px) 60px;
+    max-width:1400px;
+    margin:0 auto;
+  }
+  #count{
+    font-size:13px;
+    color:var(--muted);
+    margin:0 0 16px;
+  }
+  #grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fill,minmax(230px,1fr));
+    gap:18px;
+  }
+  .card{
+    background:var(--surface);
+    border:1px solid var(--line);
+    border-radius:var(--radius);
+    overflow:hidden;
+    display:flex;
+    flex-direction:column;
+  }
+  .card .img-wrap{
+    aspect-ratio:1/1;
+    background:#fff;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    border-bottom:1px solid var(--line);
+  }
+  .card img{
+    width:100%;
+    height:100%;
+    object-fit:contain;
+    padding:10px;
+  }
+  .card-body{
+    padding:14px 14px 16px;
+    display:flex;
+    flex-direction:column;
+    gap:6px;
+    flex:1;
+  }
+  .brand{
+    font-size:11px;
+    text-transform:uppercase;
+    letter-spacing:.06em;
+    color:var(--accent);
+    font-weight:600;
+  }
+  .name{
+    font-family:'Roboto Slab',serif;
+    font-weight:500;
+    font-size:15px;
+    line-height:1.25;
+    margin:0;
+  }
+  .color{
+    font-size:12.5px;
+    color:var(--muted);
+  }
+  .price{
+    font-size:18px;
+    font-weight:700;
+    margin-top:4px;
+  }
+  .talles{
+    display:flex;
+    flex-wrap:wrap;
+    gap:4px;
+    margin-top:6px;
+  }
+  .talle-chip{
+    font-size:10.5px;
+    padding:2px 6px;
+    border-radius:5px;
+    background:var(--accent-soft);
+    color:var(--accent);
+    border:1px solid #d7e2d3;
+  }
+  .stock-line{
+    font-size:11.5px;
+    color:var(--muted);
+    margin-top:2px;
+  }
+  .card a.ml-link{
+    margin-top:auto;
+    padding-top:10px;
+    font-size:13px;
+    font-weight:600;
+    color:var(--tag);
+    text-decoration:none;
+  }
+  .card a.ml-link:hover{text-decoration:underline;}
+  #empty{
+    text-align:center;
+    padding:60px 20px;
+    color:var(--muted);
+    display:none;
+  }
+  @media (max-width:520px){
+    .controls{flex-direction:column;}
+    .controls input,.controls select{width:100%;}
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="titlebar">
+    <h1>Catálogo de calzado</h1>
+    <span id="meta">Cargando…</span>
+  </div>
+  <div class="controls">
+    <input type="text" id="search" placeholder="Buscar por marca, modelo o color…">
+    <select id="brand"><option value="">Todas las marcas</option></select>
+    <select id="sort">
+      <option value="stock_desc">Más stock primero</option>
+      <option value="price_asc">Más barato primero</option>
+      <option value="price_desc">Más caro primero</option>
+      <option value="brand">Por marca</option>
+    </select>
+  </div>
+</header>
+
+<main>
+  <p id="count"></p>
+  <div id="grid"></div>
+  <div id="empty">No se encontraron productos con ese filtro.</div>
+</main>
+
+<script>
+const DATA_URL = "products.json";
+let ALL = [];
+
+function money(n){
+  if(n === null || n === undefined) return "Sin precio";
+  return "$ " + n.toLocaleString("es-AR");
+}
+
+function render(list){
+  const grid = document.getElementById("grid");
+  const empty = document.getElementById("empty");
+  grid.innerHTML = "";
+  document.getElementById("count").textContent =
+    list.length + (list.length === 1 ? " producto" : " productos");
+
+  if(list.length === 0){
+    empty.style.display = "block";
+    return;
+  }
+  empty.style.display = "none";
+
+  const frag = document.createDocumentFragment();
+  for(const p of list){
+    const card = document.createElement("div");
+    card.className = "card";
+
+    const sizeEntries = Object.entries(p.talles || {});
+    const chips = sizeEntries
+      .map(([talle, qty]) => `<span class="talle-chip">${talle} · ${qty}</span>`)
+      .join("");
+
+    card.innerHTML = `
+      <div class="img-wrap"><img src="${p.imagen}" alt="${p.nombre}" loading="lazy"></div>
+      <div class="card-body">
+        <span class="brand">${p.marca}</span>
+        <p class="name">${p.modelo || p.nombre}</p>
+        <span class="color">${p.color}${p.genero ? " · " + p.genero : ""}</span>
+        <span class="price">${money(p.precio)}</span>
+        <div class="talles">${chips}</div>
+        <span class="stock-line">${p.unidades} u. · ${p.cantidad_talles} talles</span>
+        <a class="ml-link" href="${p.link}" target="_blank" rel="noopener">Ver en Mercado Libre →</a>
+      </div>
+    `;
+    frag.appendChild(card);
+  }
+  grid.appendChild(frag);
+}
+
+function applyFilters(){
+  const q = document.getElementById("search").value.trim().toLowerCase();
+  const brand = document.getElementById("brand").value;
+  const sort = document.getElementById("sort").value;
+
+  let list = ALL.filter(p => {
+    if(brand && p.marca !== brand) return false;
+    if(q){
+      const hay = `${p.marca} ${p.modelo} ${p.color} ${p.codigo}`.toLowerCase();
+      if(!hay.includes(q)) return false;
+    }
+    return true;
+  });
+
+  switch(sort){
+    case "stock_desc": list.sort((a,b) => b.unidades - a.unidades); break;
+    case "price_asc": list.sort((a,b) => (a.precio ?? Infinity) - (b.precio ?? Infinity)); break;
+    case "price_desc": list.sort((a,b) => (b.precio ?? -1) - (a.precio ?? -1)); break;
+    case "brand": list.sort((a,b) => a.marca.localeCompare(b.marca)); break;
+  }
+
+  render(list);
+}
+
+function fillBrands(){
+  const brands = [...new Set(ALL.map(p => p.marca))].sort();
+  const sel = document.getElementById("brand");
+  for(const b of brands){
+    const opt = document.createElement("option");
+    opt.value = b;
+    opt.textContent = b;
+    sel.appendChild(opt);
+  }
+}
+
+async function init(){
+  try{
+    const res = await fetch(DATA_URL, {cache:"no-store"});
+    const data = await res.json();
+    ALL = data.productos || [];
+    const fecha = new Date(data.actualizado);
+    document.getElementById("meta").textContent =
+      `${data.total} productos · actualizado ${fecha.toLocaleString("es-AR")}`;
+    fillBrands();
+    applyFilters();
+  }catch(err){
+    document.getElementById("meta").textContent = "No se pudo cargar products.json";
+    console.error(err);
+  }
+}
+
+document.getElementById("search").addEventListener("input", applyFilters);
+document.getElementById("brand").addEventListener("change", applyFilters);
+document.getElementById("sort").addEventListener("change", applyFilters);
+
+init();
+</script>
+
+</body>
+</html>
