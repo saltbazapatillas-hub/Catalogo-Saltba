@@ -45,14 +45,14 @@ FOOTWEAR_KEYWORDS = [
 ]
 
 EXCLUDE_KEYWORDS = [
-    "Fjallraven", "Goorin", "Hydro", "Cartus", "Vilelmo", "jibbitz", "Nordik",
-    "LAH51020", "LAB53511", "LAB53514", "LAB53516", "LAB53517", "LAB53515",
-    "LAB51522", "LAB51523", "LAB51524", "Speedo", "Thayer", "Timberpack",
-    "Gorra", "Luca", "Xaff", "Capsio", "Persa", "By", "Aslan", "Vart Club", "Explore", "Grow", "Friends", 
-    "Hugo", "Morris", "Alaska", "Esquel", "Vancouver", "VR surf", "paraiso", "Calavera", "Esencial", 
-    "Pack", "Aromatizador", "Jogging", "Hunter", "logo", "freaky", "calavart", "Lima", "Freedom",
-    "Desierto", "Landers", "F-you", "Cool", "ulises", "Valentino", "Esteroids", "cava", "Bolson",
-    "Claromeco", "xero", "acid", "piluso", 
+    "fjallraven", "goorin", "hydro", "cartus", "vilelmo", "jibbitz", "nordik",
+    "lah51020", "lab53511", "lab53514", "lab53516", "lab53517", "lab53515",
+    "lab51522", "lab51523", "lab51524", "speedo", "thayer", "timberpack",
+    "gorra", "luca", "xaff", "capsio", "persa", "by", "aslan", "vart club", "explore", "grow", "friends", 
+    "hugo", "morris", "alaska", "esquel", "vancouver", "vr surf", "paraiso", "calavera", "esencial", 
+    "pack", "aromatizador", "jogging", "hunter", "logo", "freaky", "calavart", "lima", "freedom",
+    "desierto", "landers", "f-you", "cool", "ulises", "valentino", "esteroids", "cava", "bolson",
+    "claromeco", "xero", "acid", "piluso", 
    # "Caja X" en la lista de marcas suele ser accesorios/embalaje
    
 ]
