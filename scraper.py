@@ -45,10 +45,15 @@ FOOTWEAR_KEYWORDS = [
 ]
 
 EXCLUDE_KEYWORDS = [
-    "mochila", "billetera", "cartera", "gorra", "gorro", "jibbitz", "pin",
-    "prendedor", "remera", "campera", "buzo", "media", "calcetin",
-    "calcetín", "cinturon", "cinturón", "bolso", "riñonera", "termo",
-    "botella", "caja",  # "Caja X" en la lista de marcas suele ser accesorios/embalaje
+    "Fjallraven", "Goorin", "Hydro", "Cartus", "Vilelmo", "jibbitz", "Nordik",
+    "LAH51020", "LAB53511", "LAB53514", "LAB53516", "LAB53517", "LAB53515",
+    "LAB51522", "LAB51523", "LAB51524", "Speedo", "Thayer", "Timberpack",
+    "Gorra", "Luca", "Xaff", "Capsio", "Persa", "By", "Aslan", "Vart Club", "Explore", "Grow", "Friends", 
+    "Hugo", "Morris", "Alaska", "Esquel", "Vancouver", "VR surf", "paraiso", "Calavera", "Esencial", 
+    "Pack", "Aromatizador", "Jogging", "Hunter", "logo", "freaky", "calavart", "Lima", "Freedom",
+    "Desierto", "Landers", "F-you", "Cool", "ulises", "Valentino", "Esteroids", "cava", "Bolson",
+    "Claromeco", "xero", "acid", "piluso", # "Caja X" en la lista de marcas suele ser accesorios/embalaje
+   
 ]
 
 
