@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-12T18:06:15.825962+00:00",
-  "total": 25,
+  "actualizado": "2026-09-13T00:08:21.737783+00:00",
+  "total": 24,
   "productos": [
     {
       "codigo": "CC0020-2",
@@ -248,22 +248,6 @@
       "unidades": 1,
       "cantidad_talles": 1,
       "precio": 14374
-    },
-    {
-      "codigo": "IP0030-1433",
-      "nombre": "Ipanema Glow Slide AD",
-      "link": "https://articulo.mercadolibre.com.ar/MLA-2747871314-ojota-mujer-ipanema-glow-slide-ad-_JM",
-      "imagen": "https://http2.mlstatic.com/D_686067-MLA103997520589_012026-O.jpg",
-      "color": "IP0030-1433",
-      "modelo": "Ipanema Glow Slide AD",
-      "genero": "",
-      "marca": "Ipanema",
-      "talles": {
-        "40.5": 1
-      },
-      "unidades": 1,
-      "cantidad_talles": 1,
-      "precio": 7819
     },
     {
       "codigo": "IP0030-1435",
