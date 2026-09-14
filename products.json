@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-14T12:07:27.833683+00:00",
+  "actualizado": "2026-09-14T18:06:22.818893+00:00",
   "total": 24,
   "productos": [
     {
@@ -17,11 +17,10 @@
         "M12": 3,
         "M13": 6,
         "M6/W8": 2,
-        "M7/W9": 1,
         "M9/W11": 7
       },
-      "unidades": 23,
-      "cantidad_talles": 7,
+      "unidades": 22,
+      "cantidad_talles": 6,
       "precio": 36790
     },
     {
@@ -38,7 +37,7 @@
       },
       "unidades": 6,
       "cantidad_talles": 1,
-      "precio": 38210
+      "precio": 39947
     },
     {
       "codigo": "HA0133-89",
