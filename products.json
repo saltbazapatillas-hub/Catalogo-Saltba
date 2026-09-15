@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-14T18:06:22.818893+00:00",
+  "actualizado": "2026-09-15T00:07:59.876747+00:00",
   "total": 24,
   "productos": [
     {
@@ -55,7 +55,7 @@
       },
       "unidades": 35,
       "cantidad_talles": 3,
-      "precio": 41105
+      "precio": 42842
     },
     {
       "codigo": "HA0133-1",
@@ -71,7 +71,7 @@
       },
       "unidades": 1,
       "cantidad_talles": 1,
-      "precio": 41105
+      "precio": 42842
     },
     {
       "codigo": "HA0133-9417",
@@ -90,7 +90,7 @@
       },
       "unidades": 12,
       "cantidad_talles": 4,
-      "precio": 41105
+      "precio": 42842
     },
     {
       "codigo": "HA0133-8910",
@@ -109,7 +109,7 @@
       },
       "unidades": 18,
       "cantidad_talles": 4,
-      "precio": 41105
+      "precio": 42842
     },
     {
       "codigo": "HA0134-3544",
@@ -127,7 +127,7 @@
       },
       "unidades": 4,
       "cantidad_talles": 3,
-      "precio": 42263
+      "precio": 43999
     },
     {
       "codigo": "HA0178-90",
@@ -161,9 +161,9 @@
         "27.5": 3,
         "29": 2,
         "30": 2,
-        "31": 4
+        "31": 3
       },
-      "unidades": 11,
+      "unidades": 10,
       "cantidad_talles": 4,
       "precio": 10924
     },
