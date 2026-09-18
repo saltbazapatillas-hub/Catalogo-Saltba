@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-18T12:06:58.606985+00:00",
-  "total": 23,
+  "actualizado": "2026-09-18T18:06:24.423852+00:00",
+  "total": 21,
   "productos": [
     {
       "codigo": "CC0020-2",
@@ -40,24 +40,6 @@
       "precio": 39947
     },
     {
-      "codigo": "HA0133-89",
-      "nombre": "Havaianas Slide Classic",
-      "link": "https://articulo.mercadolibre.com.ar/MLA-1457722079-ojotas-havaianas-mujer-chilenas-sandalias-slide-classic-_JM",
-      "imagen": "https://http2.mlstatic.com/D_869013-MLA80426534031_112024-O.webp",
-      "color": "HA0133-89",
-      "modelo": "Havaianas Slide Classic",
-      "genero": "",
-      "marca": "Havaianas",
-      "talles": {
-        "35/36": 8,
-        "37/38": 14,
-        "39/40": 13
-      },
-      "unidades": 35,
-      "cantidad_talles": 3,
-      "precio": 42842
-    },
-    {
       "codigo": "HA0133-1",
       "nombre": "Havaianas Slide Classic",
       "link": "https://articulo.mercadolibre.com.ar/MLA-1458779693-ojotas-havaianas-hombre-slide-classic-blanco-_JM",
@@ -83,12 +65,12 @@
       "genero": "",
       "marca": "Havaianas",
       "talles": {
-        "35/36": 2,
-        "37/38": 5,
-        "39/40": 4,
-        "41/42": 1
+        "35/36": 10,
+        "37/38": 19,
+        "39/40": 17,
+        "41/42": 2
       },
-      "unidades": 12,
+      "unidades": 48,
       "cantidad_talles": 4,
       "precio": 42842
     },
@@ -186,7 +168,7 @@
       "codigo": "IP0010-1342",
       "nombre": "Ipanema LEME SLIDE FEM",
       "link": "https://articulo.mercadolibre.com.ar/MLA-1599073905-ojotas-mujer-chinelas-ipanema-leme-slide-fem-_JM",
-      "imagen": "https://http2.mlstatic.com/D_630644-MLA101661054749_122025-O.webp",
+      "imagen": "https://http2.mlstatic.com/D_939941-MLA101162326908_122025-O.webp",
       "color": "IP0010-1342",
       "modelo": "Ipanema LEME SLIDE FEM",
       "genero": "",
@@ -198,22 +180,6 @@
       "unidades": 2,
       "cantidad_talles": 2,
       "precio": 12649
-    },
-    {
-      "codigo": "IP0011-1340",
-      "nombre": "Ipanema SLIDE UNISEX",
-      "link": "https://articulo.mercadolibre.com.ar/MLA-2686059142-ojota-chinela-unisex-ipanema-slide-_JM",
-      "imagen": "https://http2.mlstatic.com/D_939941-MLA101162326908_122025-O.webp",
-      "color": "IP0011-1340",
-      "modelo": "Ipanema SLIDE UNISEX",
-      "genero": "",
-      "marca": "Ipanema",
-      "talles": {
-        "44.5": 1
-      },
-      "unidades": 1,
-      "cantidad_talles": 1,
-      "precio": 13224
     },
     {
       "codigo": "IP0011-232",
