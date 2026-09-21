@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-20T18:06:09.356759+00:00",
+  "actualizado": "2026-09-21T00:07:43.208898+00:00",
   "total": 20,
   "productos": [
     {
@@ -16,9 +16,9 @@
         "M11": 2,
         "M12": 3,
         "M13": 6,
-        "M9/W11": 5
+        "M9/W11": 4
       },
-      "unidades": 18,
+      "unidades": 17,
       "cantidad_talles": 5,
       "precio": 36790
     },
@@ -307,9 +307,9 @@
       "genero": "",
       "marca": "One",
       "talles": {
-        "39": 3
+        "39": 2
       },
-      "unidades": 3,
+      "unidades": 2,
       "cantidad_talles": 1,
       "precio": 24750
     },
