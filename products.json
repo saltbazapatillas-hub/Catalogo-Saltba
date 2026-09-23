@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-22T18:07:09.941158+00:00",
+  "actualizado": "2026-09-23T00:07:21.246417+00:00",
   "total": 20,
   "productos": [
     {
@@ -121,10 +121,10 @@
       "marca": "Havaianas",
       "talles": {
         "35/36": 2,
-        "37/38": 5,
+        "37/38": 4,
         "39/40": 4
       },
-      "unidades": 11,
+      "unidades": 10,
       "cantidad_talles": 3,
       "precio": 30263
     },
@@ -273,9 +273,9 @@
       "talles": {
         "37": 6,
         "38": 5,
-        "39": 5
+        "39": 4
       },
-      "unidades": 16,
+      "unidades": 15,
       "cantidad_talles": 3,
       "precio": 22550
     },
