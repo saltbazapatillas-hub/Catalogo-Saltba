@@ -1,12 +1,12 @@
 {
-  "actualizado": "2026-09-24T18:08:06.486847+00:00",
-  "total": 20,
+  "actualizado": "2026-09-25T00:08:08.197974+00:00",
+  "total": 21,
   "productos": [
     {
       "codigo": "CC0020-2",
       "nombre": "Crocs Mellow Recovery Slide",
       "link": "https://articulo.mercadolibre.com.ar/MLA-1641346377-zuecos-crocs-mellow-recovery-slide-azul-marino-_JM",
-      "imagen": "https://http2.mlstatic.com/D_831557-MLA81356214659_122024-O.jpg",
+      "imagen": "https://http2.mlstatic.com/D_902127-MLA82604935422_032025-O.webp",
       "color": "CC0020-2",
       "modelo": "Crocs Mellow Recovery Slide",
       "genero": "",
@@ -96,7 +96,7 @@
       "codigo": "HA0134-3544",
       "nombre": "Havaianas Slide Classic Brasil",
       "link": "https://articulo.mercadolibre.com.ar/MLA-1947321388-ojotas-havaianas-mujer-chilenas-slide-classic-brasil-_JM",
-      "imagen": "https://http2.mlstatic.com/D_661658-MLA97110203544_112025-O.webp",
+      "imagen": "https://http2.mlstatic.com/D_963444-MLA81363136611_122024-O.webp",
       "color": "HA0134-3544",
       "modelo": "Havaianas Slide Classic Brasil",
       "genero": "",
@@ -283,7 +283,7 @@
       "codigo": "OF0003-1058",
       "nombre": "One Flip MV635",
       "link": "https://articulo.mercadolibre.com.ar/MLA-2058866492-zapatillas-mujer-urbanas-one-flip-mv635-blancomarron-_JM",
-      "imagen": "https://http2.mlstatic.com/D_735993-MLA83649091714_042025-O.webp",
+      "imagen": "https://http2.mlstatic.com/D_825920-MLA83942203935_042025-O.webp",
       "color": "OF0003-1058",
       "modelo": "One Flip MV635",
       "genero": "",
@@ -298,6 +298,22 @@
       "precio": 24750
     },
     {
+      "codigo": "OF0005-579",
+      "nombre": "One Flip TF585",
+      "link": "https://articulo.mercadolibre.com.ar/MLA-1490860943-zapatillas-mujer-urbanas-one-flip-tf585-blancogris-_JM",
+      "imagen": "https://http2.mlstatic.com/D_735993-MLA83649091714_042025-O.webp",
+      "color": "OF0005-579",
+      "modelo": "One Flip TF585",
+      "genero": "",
+      "marca": "One",
+      "talles": {
+        "39": 1
+      },
+      "unidades": 1,
+      "cantidad_talles": 1,
+      "precio": 25190
+    },
+    {
       "codigo": "OF0006-1056",
       "nombre": "One Flip TF587",
       "link": "https://articulo.mercadolibre.com.ar/MLA-2058866494-zapatillas-mujer-con-plataforma-one-flip-tf587-blanconiquel-_JM",
@@ -307,9 +323,9 @@
       "genero": "",
       "marca": "One",
       "talles": {
-        "39": 2
+        "39": 1
       },
-      "unidades": 2,
+      "unidades": 1,
       "cantidad_talles": 1,
       "precio": 24750
     },
@@ -339,11 +355,12 @@
       "genero": "",
       "marca": "One",
       "talles": {
+        "38": 1,
         "39": 1,
         "40": 1
       },
-      "unidades": 2,
-      "cantidad_talles": 2,
+      "unidades": 3,
+      "cantidad_talles": 3,
       "precio": 25190
     }
   ]
