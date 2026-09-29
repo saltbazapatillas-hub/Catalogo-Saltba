@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-29T00:08:17.053529+00:00",
+  "actualizado": "2026-09-29T06:07:58.951620+00:00",
   "total": 21,
   "productos": [
     {
@@ -83,11 +83,11 @@
       "marca": "Havaianas",
       "talles": {
         "35/36": 3,
-        "37/38": 9,
+        "37/38": 8,
         "39/40": 4,
         "41/42": 2
       },
-      "unidades": 18,
+      "unidades": 17,
       "cantidad_talles": 4,
       "precio": 42842
     },
@@ -95,7 +95,7 @@
       "codigo": "HA0134-3544",
       "nombre": "Havaianas Slide Classic Brasil",
       "link": "https://articulo.mercadolibre.com.ar/MLA-1947321388-ojotas-havaianas-mujer-chilenas-slide-classic-brasil-_JM",
-      "imagen": "https://http2.mlstatic.com/D_963444-MLA81363136611_122024-O.webp",
+      "imagen": "https://http2.mlstatic.com/D_661658-MLA97110203544_112025-O.webp",
       "color": "HA0134-3544",
       "modelo": "Havaianas Slide Classic Brasil",
       "genero": "",
