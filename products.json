@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-29T12:08:06.858348+00:00",
+  "actualizado": "2026-09-29T18:08:31.223067+00:00",
   "total": 21,
   "productos": [
     {
@@ -25,7 +25,7 @@
       "codigo": "HA0060-128",
       "nombre": "Havaianas Slide Brasil",
       "link": "https://articulo.mercadolibre.com.ar/MLA-1449895339-ojota-chancleta-havaianas-slide-brasil-blanco-negro-_JM",
-      "imagen": "https://http2.mlstatic.com/D_838888-MLA116841350746_092026-O.webp",
+      "imagen": "https://http2.mlstatic.com/D_960784-MLA118457502109_092026-O.webp",
       "color": "HA0060-128",
       "modelo": "Havaianas Slide Brasil",
       "genero": "",
@@ -113,7 +113,7 @@
       "codigo": "HA0178-90",
       "nombre": "Havaianas Slide Zero",
       "link": "https://articulo.mercadolibre.com.ar/MLA-2060892833-havaianas-ojotas-chancletas-slide-zero-originales-unisex-negro-3536-_JM",
-      "imagen": "https://http2.mlstatic.com/D_828417-MLA117148846211_092026-O.webp",
+      "imagen": "https://http2.mlstatic.com/D_790142-MLA118457296657_092026-O.jpg",
       "color": "HA0178-90",
       "modelo": "Havaianas Slide Zero",
       "genero": "",
@@ -121,9 +121,9 @@
       "talles": {
         "35/36": 2,
         "37/38": 4,
-        "39/40": 4
+        "39/40": 3
       },
-      "unidades": 10,
+      "unidades": 9,
       "cantidad_talles": 3,
       "precio": 30263
     },
