@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-30T18:07:37.894389+00:00",
-  "total": 21,
+  "actualizado": "2026-10-01T00:08:29.573691+00:00",
+  "total": 20,
   "productos": [
     {
       "codigo": "CC0020-2",
@@ -282,7 +282,7 @@
       "codigo": "OF0003-1058",
       "nombre": "One Flip MV635",
       "link": "https://articulo.mercadolibre.com.ar/MLA-2058866492-zapatillas-mujer-urbanas-one-flip-mv635-blancomarron-_JM",
-      "imagen": "https://http2.mlstatic.com/D_825920-MLA83942203935_042025-O.webp",
+      "imagen": "https://http2.mlstatic.com/D_735993-MLA83649091714_042025-O.webp",
       "color": "OF0003-1058",
       "modelo": "One Flip MV635",
       "genero": "",
@@ -295,22 +295,6 @@
       "unidades": 8,
       "cantidad_talles": 3,
       "precio": 24750
-    },
-    {
-      "codigo": "OF0005-579",
-      "nombre": "One Flip TF585",
-      "link": "https://articulo.mercadolibre.com.ar/MLA-1490860943-zapatillas-mujer-urbanas-one-flip-tf585-blancogris-_JM",
-      "imagen": "https://http2.mlstatic.com/D_735993-MLA83649091714_042025-O.webp",
-      "color": "OF0005-579",
-      "modelo": "One Flip TF585",
-      "genero": "",
-      "marca": "One",
-      "talles": {
-        "39": 1
-      },
-      "unidades": 1,
-      "cantidad_talles": 1,
-      "precio": 25190
     },
     {
       "codigo": "OF0006-1056",
@@ -355,11 +339,10 @@
       "marca": "One",
       "talles": {
         "38": 1,
-        "39": 1,
         "40": 1
       },
-      "unidades": 3,
-      "cantidad_talles": 3,
+      "unidades": 2,
+      "cantidad_talles": 2,
       "precio": 25190
     }
   ]
