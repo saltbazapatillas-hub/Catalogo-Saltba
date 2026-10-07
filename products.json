@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-07T12:09:37.413737+00:00",
+  "actualizado": "2026-10-07T18:08:21.105575+00:00",
   "total": 25,
   "productos": [
     {
@@ -13,11 +13,11 @@
       "marca": "Crocs",
       "talles": {
         "M11": 1,
-        "M12": 3,
+        "M12": 2,
         "M13": 4,
         "M9/W11": 3
       },
-      "unidades": 11,
+      "unidades": 10,
       "cantidad_talles": 4,
       "precio": 36790
     },
