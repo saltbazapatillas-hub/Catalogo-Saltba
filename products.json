@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-08T12:09:16.473579+00:00",
-  "total": 27,
+  "actualizado": "2026-10-08T18:07:24.173433+00:00",
+  "total": 28,
   "productos": [
     {
       "codigo": "CC0020-2",
@@ -232,6 +232,22 @@
       "unidades": 3,
       "cantidad_talles": 1,
       "precio": 13224
+    },
+    {
+      "codigo": "IP0026-516",
+      "nombre": "Ipanema Diversa Slide II AD",
+      "link": "https://articulo.mercadolibre.com.ar/MLA-1627731181-ojotas-ipanema-diversa-ii-slide-ad-_JM",
+      "imagen": "https://http2.mlstatic.com/D_665288-MLA103262656805_122025-O.webp",
+      "color": "IP0026-516",
+      "modelo": "Ipanema Diversa Slide II AD",
+      "genero": "",
+      "marca": "Ipanema",
+      "talles": {
+        "36": 1
+      },
+      "unidades": 1,
+      "cantidad_talles": 1,
+      "precio": 9774
     },
     {
       "codigo": "IP0027-1429",
