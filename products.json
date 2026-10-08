@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-07T18:08:21.105575+00:00",
-  "total": 25,
+  "actualizado": "2026-10-08T00:07:56.789090+00:00",
+  "total": 27,
   "productos": [
     {
       "codigo": "CC0020-2",
@@ -113,7 +113,7 @@
       "codigo": "HA0178-90",
       "nombre": "Havaianas Slide Zero",
       "link": "https://articulo.mercadolibre.com.ar/MLA-2060892833-havaianas-ojotas-chancletas-slide-zero-originales-unisex-negro-3536-_JM",
-      "imagen": "https://http2.mlstatic.com/D_790142-MLA118457296657_092026-O.jpg",
+      "imagen": "https://http2.mlstatic.com/D_850346-MLA118917544049_102026-O.webp",
       "color": "HA0178-90",
       "modelo": "Havaianas Slide Zero",
       "genero": "",
@@ -126,6 +126,44 @@
       "unidades": 8,
       "cantidad_talles": 3,
       "precio": 30263
+    },
+    {
+      "codigo": "HA0179-90",
+      "nombre": "Havaianas Slide Strap",
+      "link": "https://articulo.mercadolibre.com.ar/MLA-2161362117-sandalias-ojotas-havaianas-slide-strap-hombre-negro-3940-_JM",
+      "imagen": "https://http2.mlstatic.com/D_614491-MLA117323494712_102026-O.webp",
+      "color": "HA0179-90",
+      "modelo": "Havaianas Slide Strap",
+      "genero": "",
+      "marca": "Havaianas",
+      "talles": {
+        "39/40": 4,
+        "41/42": 8,
+        "43/44": 8,
+        "45/46": 4
+      },
+      "unidades": 24,
+      "cantidad_talles": 4,
+      "precio": 40526
+    },
+    {
+      "codigo": "HA0179-4896",
+      "nombre": "Havaianas Slide Strap",
+      "link": "https://articulo.mercadolibre.com.ar/MLA-2161362115-sandalias-ojotas-havaianas-slide-strap-hombre-verde-oliva-3940-_JM",
+      "imagen": "https://http2.mlstatic.com/D_790142-MLA118457296657_092026-O.jpg",
+      "color": "HA0179-4896",
+      "modelo": "Havaianas Slide Strap",
+      "genero": "",
+      "marca": "Havaianas",
+      "talles": {
+        "39/40": 2,
+        "41/42": 4,
+        "43/44": 4,
+        "45/46": 2
+      },
+      "unidades": 12,
+      "cantidad_talles": 4,
+      "precio": 40526
     },
     {
       "codigo": "IP0002-232",
