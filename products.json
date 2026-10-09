@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-09T12:08:39.096039+00:00",
+  "actualizado": "2026-10-09T18:07:39.889634+00:00",
   "total": 28,
   "productos": [
     {
@@ -12,11 +12,11 @@
       "genero": "",
       "marca": "Crocs",
       "talles": {
-        "M12": 2,
+        "M12": 1,
         "M13": 4,
         "M9/W11": 2
       },
-      "unidades": 8,
+      "unidades": 7,
       "cantidad_talles": 3,
       "precio": 36790
     },
@@ -120,9 +120,9 @@
       "talles": {
         "35/36": 2,
         "37/38": 3,
-        "39/40": 3
+        "39/40": 4
       },
-      "unidades": 8,
+      "unidades": 9,
       "cantidad_talles": 3,
       "precio": 30263
     },
@@ -226,9 +226,9 @@
       "genero": "",
       "marca": "Ipanema",
       "talles": {
-        "44.5": 3
+        "44.5": 2
       },
-      "unidades": 3,
+      "unidades": 2,
       "cantidad_talles": 1,
       "precio": 13224
     },
@@ -320,7 +320,7 @@
     {
       "codigo": "IP0047-141",
       "nombre": "Ipanema Shine Slide Trendy",
-      "link": "https://articulo.mercadolibre.com.ar/MLA-2155144899-ojotas-mujer-ipanema-shine-slide-trendy-negro-beige-36-ar-_JM",
+      "link": "https://articulo.mercadolibre.com.ar/MLA-2155144899-ojotas-mujer-ipanema-shine-slide-trendy-negrobeige-36-ar-_JM",
       "imagen": "https://http2.mlstatic.com/D_821828-MLA118798736407_102026-O.webp",
       "color": "IP0047-141",
       "modelo": "Ipanema Shine Slide Trendy",
