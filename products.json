@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-09T06:09:30.621845+00:00",
+  "actualizado": "2026-10-09T12:08:39.096039+00:00",
   "total": 28,
   "productos": [
     {
@@ -14,9 +14,9 @@
       "talles": {
         "M12": 2,
         "M13": 4,
-        "M9/W11": 3
+        "M9/W11": 2
       },
-      "unidades": 9,
+      "unidades": 8,
       "cantidad_talles": 3,
       "precio": 36790
     },
