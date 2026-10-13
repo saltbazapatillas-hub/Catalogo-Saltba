@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-13T06:24:29.143323+00:00",
-  "total": 29,
+  "actualizado": "2026-10-13T18:43:36.023230+00:00",
+  "total": 30,
   "productos": [
     {
       "codigo": "CC0020-2",
@@ -366,13 +366,13 @@
       "genero": "",
       "marca": "Ipanema",
       "talles": {
-        "36": 2,
-        "37": 2,
+        "36": 1,
+        "37": 3,
         "38": 5,
         "39": 8,
-        "40.5": 4
+        "40.5": 3
       },
-      "unidades": 21,
+      "unidades": 20,
       "cantidad_talles": 5,
       "precio": 16307
     },
@@ -512,6 +512,27 @@
       "unidades": 2,
       "cantidad_talles": 2,
       "precio": 25190
+    },
+    {
+      "codigo": "RD0002-26",
+      "nombre": "Rider Feel Slide AD",
+      "link": "https://articulo.mercadolibre.com.ar/MLA-2185934939-ojotas-hombre-rider-feel-slide-ad-chancletas-negro-385-ar-_JM",
+      "imagen": "https://http2.mlstatic.com/D_810600-MLA82867120526_032025-O.webp",
+      "color": "RD0002-26",
+      "modelo": "Rider Feel Slide AD",
+      "genero": "",
+      "marca": "Rider",
+      "talles": {
+        "38.5": 1,
+        "40": 2,
+        "41": 3,
+        "42": 3,
+        "43": 2,
+        "44.5": 1
+      },
+      "unidades": 12,
+      "cantidad_talles": 6,
+      "precio": 16784
     }
   ]
 }
