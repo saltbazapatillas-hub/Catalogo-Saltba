@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-12T14:03:18.168245+00:00",
+  "actualizado": "2026-10-13T00:00:02.104934+00:00",
   "total": 29,
   "productos": [
     {
@@ -12,12 +12,11 @@
       "genero": "",
       "marca": "Crocs",
       "talles": {
-        "M12": 1,
         "M13": 4,
         "M9/W11": 2
       },
-      "unidades": 7,
-      "cantidad_talles": 3,
+      "unidades": 6,
+      "cantidad_talles": 2,
       "precio": 36790
     },
     {
@@ -119,10 +118,10 @@
       "marca": "Havaianas",
       "talles": {
         "35/36": 2,
-        "37/38": 3,
+        "37/38": 2,
         "39/40": 3
       },
-      "unidades": 8,
+      "unidades": 7,
       "cantidad_talles": 3,
       "precio": 30263
     },
@@ -369,11 +368,11 @@
       "talles": {
         "36": 2,
         "37": 2,
-        "38": 6,
+        "38": 5,
         "39": 8,
         "40.5": 4
       },
-      "unidades": 22,
+      "unidades": 21,
       "cantidad_talles": 5,
       "precio": 16307
     },
