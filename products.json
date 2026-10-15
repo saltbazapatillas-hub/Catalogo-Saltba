@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-15T16:03:45.613459+00:00",
+  "actualizado": "2026-10-15T20:48:01.889594+00:00",
   "total": 33,
   "productos": [
     {
@@ -12,12 +12,13 @@
       "genero": "",
       "marca": "Crocs",
       "talles": {
+        "M11": 1,
         "M12": 1,
         "M13": 4,
         "M9/W11": 1
       },
-      "unidades": 6,
-      "cantidad_talles": 3,
+      "unidades": 7,
+      "cantidad_talles": 4,
       "precio": 36790
     },
     {
@@ -559,7 +560,7 @@
       "codigo": "RD0003-1638",
       "nombre": "Rider Street Slide AD",
       "link": "https://articulo.mercadolibre.com.ar/MLA-4075006008-ojotas-chancletas-rider-street-slide-ad-hombre-azul-385-ar-_JM",
-      "imagen": "https://http2.mlstatic.com/D_817065-MLA119460804061_102026-O.jpg",
+      "imagen": "https://http2.mlstatic.com/D_910491-MLA119473534285_102026-O.jpg",
       "color": "RD0003-1638",
       "modelo": "Rider Street Slide AD",
       "genero": "",
@@ -579,7 +580,7 @@
     {
       "codigo": "RD0003-231",
       "nombre": "Rider Street Slide AD",
-      "link": "https://articulo.mercadolibre.com.ar/MLA-4080158542-ojotas-chancletas-rider-street-slide-ad-hombre-negro-385-ar-_JM",
+      "link": "https://articulo.mercadolibre.com.ar/MLA-2196204691-ojotas-chancletas-rider-street-slide-ad-hombre-negras-negro-385-ar-con-embalaje-adicional-_JM",
       "imagen": "https://http2.mlstatic.com/D_810600-MLA82867120526_032025-O.webp",
       "color": "RD0003-231",
       "modelo": "Rider Street Slide AD",
