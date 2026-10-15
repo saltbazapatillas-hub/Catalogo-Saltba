@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-15T10:38:27.986741+00:00",
-  "total": 31,
+  "actualizado": "2026-10-15T16:03:45.613459+00:00",
+  "total": 33,
   "productos": [
     {
       "codigo": "CC0020-2",
@@ -252,7 +252,7 @@
       "codigo": "IP0027-1429",
       "nombre": "Ipanema Cristal Sandalia AD",
       "link": "https://articulo.mercadolibre.com.ar/MLA-1627718631-sandalias-mujer-ipanema-cristal-sandal-ad-_JM",
-      "imagen": "https://http2.mlstatic.com/D_878164-MLA104002552921_012026-O.webp",
+      "imagen": "https://http2.mlstatic.com/D_894046-MLA103233650406_012026-O.webp",
       "color": "IP0027-1429",
       "modelo": "Ipanema Cristal Sandalia AD",
       "genero": "",
@@ -310,10 +310,10 @@
         "36": 4,
         "37": 8,
         "38": 11,
-        "39": 15,
+        "39": 13,
         "40.5": 8
       },
-      "unidades": 46,
+      "unidades": 44,
       "cantidad_talles": 5,
       "precio": 18722
     },
@@ -341,8 +341,28 @@
       "codigo": "IP0052-1634",
       "nombre": "Ipanema Shine Slide",
       "link": "https://articulo.mercadolibre.com.ar/MLA-2157304957-sandalias-ipanema-shine-slide-ojotas-mujer-hueso-y-beige-hueso-beige-36-ar-_JM",
-      "imagen": "https://http2.mlstatic.com/D_973235-MLA117254347118_102026-O.webp",
+      "imagen": "https://http2.mlstatic.com/D_984471-MLA119460097789_102026-O.jpg",
       "color": "IP0052-1634",
+      "modelo": "Ipanema Shine Slide",
+      "genero": "",
+      "marca": "Ipanema",
+      "talles": {
+        "36": 2,
+        "37": 4,
+        "38": 6,
+        "39": 8,
+        "40.5": 4
+      },
+      "unidades": 24,
+      "cantidad_talles": 5,
+      "precio": 16307
+    },
+    {
+      "codigo": "IP0052-669",
+      "nombre": "Ipanema Shine Slide",
+      "link": "https://articulo.mercadolibre.com.ar/MLA-4080154168-sandalias-ipanema-shine-slide-ojotas-mujer-marron-36-ar-_JM",
+      "imagen": "https://http2.mlstatic.com/D_973235-MLA117254347118_102026-O.webp",
+      "color": "IP0052-669",
       "modelo": "Ipanema Shine Slide",
       "genero": "",
       "marca": "Ipanema",
@@ -539,8 +559,29 @@
       "codigo": "RD0003-1638",
       "nombre": "Rider Street Slide AD",
       "link": "https://articulo.mercadolibre.com.ar/MLA-4075006008-ojotas-chancletas-rider-street-slide-ad-hombre-azul-385-ar-_JM",
-      "imagen": "https://http2.mlstatic.com/D_810600-MLA82867120526_032025-O.webp",
+      "imagen": "https://http2.mlstatic.com/D_817065-MLA119460804061_102026-O.jpg",
       "color": "RD0003-1638",
+      "modelo": "Rider Street Slide AD",
+      "genero": "",
+      "marca": "Rider",
+      "talles": {
+        "38.5": 1,
+        "40": 2,
+        "41": 3,
+        "42": 3,
+        "43": 2,
+        "44.5": 1
+      },
+      "unidades": 12,
+      "cantidad_talles": 6,
+      "precio": 16784
+    },
+    {
+      "codigo": "RD0003-231",
+      "nombre": "Rider Street Slide AD",
+      "link": "https://articulo.mercadolibre.com.ar/MLA-4080158542-ojotas-chancletas-rider-street-slide-ad-hombre-negro-385-ar-_JM",
+      "imagen": "https://http2.mlstatic.com/D_810600-MLA82867120526_032025-O.webp",
+      "color": "RD0003-231",
       "modelo": "Rider Street Slide AD",
       "genero": "",
       "marca": "Rider",
