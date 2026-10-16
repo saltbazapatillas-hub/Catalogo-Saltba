@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-16T10:25:38.322204+00:00",
+  "actualizado": "2026-10-16T15:51:58.562106+00:00",
   "total": 33,
   "productos": [
     {
@@ -12,12 +12,11 @@
       "genero": "",
       "marca": "Crocs",
       "talles": {
-        "M12": 1,
         "M13": 4,
         "M9/W11": 1
       },
-      "unidades": 6,
-      "cantidad_talles": 3,
+      "unidades": 5,
+      "cantidad_talles": 2,
       "precio": 36790
     },
     {
@@ -408,12 +407,12 @@
       "marca": "Ipanema",
       "talles": {
         "36": 1,
-        "37": 2,
+        "37": 1,
         "38": 2,
         "39": 4,
         "40.5": 1
       },
-      "unidades": 10,
+      "unidades": 9,
       "cantidad_talles": 5,
       "precio": 16307
     },
