@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-18T10:10:30.002175+00:00",
+  "actualizado": "2026-10-18T15:10:21.970628+00:00",
   "total": 33,
   "productos": [
     {
@@ -12,11 +12,10 @@
       "genero": "",
       "marca": "Crocs",
       "talles": {
-        "M13": 4,
-        "M9/W11": 1
+        "M13": 4
       },
-      "unidades": 5,
-      "cantidad_talles": 2,
+      "unidades": 4,
+      "cantidad_talles": 1,
       "precio": 36790
     },
     {
@@ -380,21 +379,20 @@
     {
       "codigo": "IP0052-141",
       "nombre": "Ipanema Shine Slide",
-      "link": "https://articulo.mercadolibre.com.ar/MLA-2157330073-sandalias-ipanema-shine-slide-ojotas-mujer-negrobeige-36-ar-_JM",
+      "link": "https://articulo.mercadolibre.com.ar/MLA-2157304795-sandalias-ipanema-shine-slide-ojotas-mujer-negrobeige-37-ar-_JM",
       "imagen": "https://http2.mlstatic.com/D_664497-MLA118844234017_102026-O.webp",
       "color": "IP0052-141",
       "modelo": "Ipanema Shine Slide",
       "genero": "",
       "marca": "Ipanema",
       "talles": {
-        "36": 1,
         "37": 3,
         "38": 4,
         "39": 8,
         "40.5": 2
       },
-      "unidades": 18,
-      "cantidad_talles": 5,
+      "unidades": 17,
+      "cantidad_talles": 4,
       "precio": 16307
     },
     {
