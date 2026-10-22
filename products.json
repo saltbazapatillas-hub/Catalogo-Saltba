@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-21T21:04:58.859973+00:00",
+  "actualizado": "2026-10-22T02:44:29.199542+00:00",
   "total": 33,
   "productos": [
     {
@@ -35,26 +35,10 @@
       "precio": 39947
     },
     {
-      "codigo": "HA0133-1",
-      "nombre": "Havaianas Slide Classic",
-      "link": "https://articulo.mercadolibre.com.ar/MLA-1458779693-ojotas-havaianas-hombre-slide-classic-blanco-_JM",
-      "imagen": "https://http2.mlstatic.com/D_668349-MLA82912328120_032025-O.webp",
-      "color": "HA0133-1",
-      "modelo": "Havaianas Slide Classic",
-      "genero": "",
-      "marca": "Havaianas",
-      "talles": {
-        "41/42": 1
-      },
-      "unidades": 1,
-      "cantidad_talles": 1,
-      "precio": 42842
-    },
-    {
       "codigo": "HA0133-9417",
       "nombre": "Havaianas Slide Classic",
       "link": "https://articulo.mercadolibre.com.ar/MLA-2034304184-sandalias-chilenas-havaianas-hombre-slide-classic-azul-_JM",
-      "imagen": "https://http2.mlstatic.com/D_966988-MLA80051402972_102024-O.jpg",
+      "imagen": "https://http2.mlstatic.com/D_869013-MLA80426534031_112024-O.webp",
       "color": "HA0133-9417",
       "modelo": "Havaianas Slide Classic",
       "genero": "",
@@ -67,6 +51,22 @@
       },
       "unidades": 48,
       "cantidad_talles": 4,
+      "precio": 42842
+    },
+    {
+      "codigo": "HA0133-1",
+      "nombre": "Havaianas Slide Classic",
+      "link": "https://articulo.mercadolibre.com.ar/MLA-1458779693-ojotas-havaianas-hombre-slide-classic-blanco-_JM",
+      "imagen": "https://http2.mlstatic.com/D_966988-MLA80051402972_102024-O.jpg",
+      "color": "HA0133-1",
+      "modelo": "Havaianas Slide Classic",
+      "genero": "",
+      "marca": "Havaianas",
+      "talles": {
+        "41/42": 1
+      },
+      "unidades": 1,
+      "cantidad_talles": 1,
       "precio": 42842
     },
     {
@@ -110,7 +110,7 @@
       "codigo": "HA0178-90",
       "nombre": "Havaianas Slide Zero",
       "link": "https://articulo.mercadolibre.com.ar/MLA-2060892833-havaianas-ojotas-chancletas-slide-zero-originales-unisex-negro-3536-_JM",
-      "imagen": "https://http2.mlstatic.com/D_850346-MLA118917544049_102026-O.webp",
+      "imagen": "https://http2.mlstatic.com/D_614491-MLA117323494712_102026-O.webp",
       "color": "HA0178-90",
       "modelo": "Havaianas Slide Zero",
       "genero": "",
@@ -126,29 +126,10 @@
       "precio": 30263
     },
     {
-      "codigo": "HA0179-90",
-      "nombre": "Havaianas Slide Strap",
-      "link": "https://articulo.mercadolibre.com.ar/MLA-2161362117-sandalias-ojotas-havaianas-slide-strap-hombre-negro-3940-_JM",
-      "imagen": "https://http2.mlstatic.com/D_614491-MLA117323494712_102026-O.webp",
-      "color": "HA0179-90",
-      "modelo": "Havaianas Slide Strap",
-      "genero": "",
-      "marca": "Havaianas",
-      "talles": {
-        "39/40": 4,
-        "41/42": 8,
-        "43/44": 8,
-        "45/46": 4
-      },
-      "unidades": 24,
-      "cantidad_talles": 4,
-      "precio": 40526
-    },
-    {
       "codigo": "HA0179-4896",
       "nombre": "Havaianas Slide Strap",
       "link": "https://articulo.mercadolibre.com.ar/MLA-2161362115-sandalias-ojotas-havaianas-slide-strap-hombre-verde-oliva-3940-_JM",
-      "imagen": "https://http2.mlstatic.com/D_790142-MLA118457296657_092026-O.jpg",
+      "imagen": "https://http2.mlstatic.com/D_850346-MLA118917544049_102026-O.webp",
       "color": "HA0179-4896",
       "modelo": "Havaianas Slide Strap",
       "genero": "",
@@ -160,6 +141,25 @@
         "45/46": 1
       },
       "unidades": 11,
+      "cantidad_talles": 4,
+      "precio": 40526
+    },
+    {
+      "codigo": "HA0179-90",
+      "nombre": "Havaianas Slide Strap",
+      "link": "https://articulo.mercadolibre.com.ar/MLA-2161362117-sandalias-ojotas-havaianas-slide-strap-hombre-negro-3940-_JM",
+      "imagen": "https://http2.mlstatic.com/D_790142-MLA118457296657_092026-O.jpg",
+      "color": "HA0179-90",
+      "modelo": "Havaianas Slide Strap",
+      "genero": "",
+      "marca": "Havaianas",
+      "talles": {
+        "39/40": 4,
+        "41/42": 8,
+        "43/44": 8,
+        "45/46": 4
+      },
+      "unidades": 24,
       "cantidad_talles": 4,
       "precio": 40526
     },
@@ -217,11 +217,11 @@
     },
     {
       "codigo": "IP0011-232",
-      "nombre": "Ipanema SLIDE UNISEX",
+      "nombre": "Ipanema SLIDE UNISSEX",
       "link": "https://articulo.mercadolibre.com.ar/MLA-2686059142-ojota-chinela-unisex-ipanema-slide-_JM",
       "imagen": "https://http2.mlstatic.com/D_834407-MLA99895191766_122025-O.jpg",
       "color": "IP0011-232",
-      "modelo": "Ipanema SLIDE UNISEX",
+      "modelo": "Ipanema SLIDE UNISSEX",
       "genero": "",
       "marca": "Ipanema",
       "talles": {
