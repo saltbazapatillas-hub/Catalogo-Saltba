@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-23T10:48:05.511242+00:00",
+  "actualizado": "2026-10-23T16:12:36.222380+00:00",
   "total": 33,
   "productos": [
     {
@@ -80,11 +80,11 @@
       "marca": "Havaianas",
       "talles": {
         "35/36": 3,
-        "37/38": 8,
+        "37/38": 7,
         "39/40": 4,
         "41/42": 2
       },
-      "unidades": 17,
+      "unidades": 16,
       "cantidad_talles": 4,
       "precio": 42842
     },
@@ -439,12 +439,13 @@
       "genero": "",
       "marca": "One",
       "talles": {
+        "36": 1,
         "37": 6,
         "38": 5,
         "39": 4
       },
-      "unidades": 15,
-      "cantidad_talles": 3,
+      "unidades": 16,
+      "cantidad_talles": 4,
       "precio": 22550
     },
     {
@@ -457,12 +458,13 @@
       "genero": "",
       "marca": "One",
       "talles": {
+        "37": 1,
         "38": 2,
         "39": 5,
         "40": 1
       },
-      "unidades": 8,
-      "cantidad_talles": 3,
+      "unidades": 9,
+      "cantidad_talles": 4,
       "precio": 24750
     },
     {
@@ -491,9 +493,9 @@
       "genero": "",
       "marca": "One",
       "talles": {
-        "39": 1
+        "39": 2
       },
-      "unidades": 1,
+      "unidades": 2,
       "cantidad_talles": 1,
       "precio": 24750
     },
