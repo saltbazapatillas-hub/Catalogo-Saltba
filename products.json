@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-26T12:00:08.874149+00:00",
+  "actualizado": "2026-10-26T18:34:47.100406+00:00",
   "total": 33,
   "productos": [
     {
@@ -386,11 +386,11 @@
       "marca": "Ipanema",
       "talles": {
         "37": 1,
-        "38": 4,
+        "38": 3,
         "39": 6,
         "40.5": 2
       },
-      "unidades": 13,
+      "unidades": 12,
       "cantidad_talles": 4,
       "precio": 16307
     },
