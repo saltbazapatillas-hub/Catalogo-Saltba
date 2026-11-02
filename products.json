@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-02T03:44:11.398367+00:00",
-  "total": 33,
+  "actualizado": "2026-11-02T14:24:04.801913+00:00",
+  "total": 32,
   "productos": [
     {
       "codigo": "CC0020-2",
@@ -119,9 +119,9 @@
         "35/36": 2,
         "37/38": 2,
         "39/40": 6,
-        "41/42": 7
+        "41/42": 5
       },
-      "unidades": 17,
+      "unidades": 15,
       "cantidad_talles": 4,
       "precio": 30263
     },
@@ -232,22 +232,6 @@
       "precio": 13224
     },
     {
-      "codigo": "IP0026-516",
-      "nombre": "Ipanema Diversa Slide II AD",
-      "link": "https://articulo.mercadolibre.com.ar/MLA-1627731181-ojotas-ipanema-diversa-ii-slide-ad-_JM",
-      "imagen": "https://http2.mlstatic.com/D_665288-MLA103262656805_122025-O.webp",
-      "color": "IP0026-516",
-      "modelo": "Ipanema Diversa Slide II AD",
-      "genero": "",
-      "marca": "Ipanema",
-      "talles": {
-        "36": 1
-      },
-      "unidades": 1,
-      "cantidad_talles": 1,
-      "precio": 9774
-    },
-    {
       "codigo": "IP0027-1429",
       "nombre": "Ipanema Cristal Sandalia AD",
       "link": "https://articulo.mercadolibre.com.ar/MLA-1627718631-sandalias-mujer-ipanema-cristal-sandal-ad-_JM",
@@ -309,9 +293,9 @@
         "37": 7,
         "38": 10,
         "39": 13,
-        "40.5": 8
+        "40.5": 7
       },
-      "unidades": 42,
+      "unidades": 41,
       "cantidad_talles": 5,
       "precio": 18722
     },
@@ -319,7 +303,7 @@
       "codigo": "IP0047-141",
       "nombre": "Ipanema Shine Slide Trendy",
       "link": "https://articulo.mercadolibre.com.ar/MLA-2155144899-ojotas-mujer-ipanema-shine-slide-trendy-negrobeige-36-ar-_JM",
-      "imagen": "https://http2.mlstatic.com/D_702778-MLA119355145247_102026-O.webp",
+      "imagen": "https://http2.mlstatic.com/D_720347-MLA117211349072_102026-O.jpg",
       "color": "IP0047-141",
       "modelo": "Ipanema Shine Slide Trendy",
       "genero": "",
@@ -387,11 +371,10 @@
       "talles": {
         "37": 1,
         "38": 3,
-        "39": 6,
-        "40.5": 1
+        "39": 6
       },
-      "unidades": 11,
-      "cantidad_talles": 4,
+      "unidades": 10,
+      "cantidad_talles": 3,
       "precio": 16307
     },
     {
