@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-02T14:24:04.801913+00:00",
+  "actualizado": "2026-11-03T00:15:24.213230+00:00",
   "total": 32,
   "productos": [
     {
@@ -176,9 +176,9 @@
         "27.5": 3,
         "29": 2,
         "30": 2,
-        "31": 2
+        "31": 1
       },
-      "unidades": 9,
+      "unidades": 8,
       "cantidad_talles": 4,
       "precio": 10924
     },
@@ -330,12 +330,12 @@
       "marca": "Ipanema",
       "talles": {
         "36": 2,
-        "37": 4,
+        "37": 3,
         "38": 6,
         "39": 7,
         "40.5": 4
       },
-      "unidades": 23,
+      "unidades": 22,
       "cantidad_talles": 5,
       "precio": 16307
     },
@@ -362,16 +362,16 @@
     {
       "codigo": "IP0052-141",
       "nombre": "Ipanema Shine Slide",
-      "link": "https://articulo.mercadolibre.com.ar/MLA-2157304795-sandalias-ipanema-shine-slide-ojotas-mujer-negrobeige-37-ar-_JM",
+      "link": "https://articulo.mercadolibre.com.ar/MLA-2157342729-sandalias-ipanema-shine-slide-ojotas-mujer-negrobeige-38-ar-_JM",
       "imagen": "https://http2.mlstatic.com/D_664497-MLA118844234017_102026-O.webp",
       "color": "IP0052-141",
       "modelo": "Ipanema Shine Slide",
       "genero": "",
       "marca": "Ipanema",
       "talles": {
-        "37": 1,
         "38": 3,
-        "39": 6
+        "39": 6,
+        "40.5": 1
       },
       "unidades": 10,
       "cantidad_talles": 3,
@@ -518,22 +518,21 @@
     {
       "codigo": "RD0002-26",
       "nombre": "Rider Feel Slide AD",
-      "link": "https://articulo.mercadolibre.com.ar/MLA-2185934939-ojotas-hombre-rider-feel-slide-ad-chancletas-negro-385-ar-_JM",
+      "link": "https://articulo.mercadolibre.com.ar/MLA-2185922361-ojotas-hombre-rider-feel-slide-ad-chancletas-negro-40-ar-_JM",
       "imagen": "https://http2.mlstatic.com/D_932364-MLA117733719818_102026-O.webp",
       "color": "RD0002-26",
       "modelo": "Rider Feel Slide AD",
       "genero": "",
       "marca": "Rider",
       "talles": {
-        "38.5": 1,
         "40": 1,
         "41": 3,
         "42": 3,
         "43": 2,
         "44.5": 1
       },
-      "unidades": 11,
-      "cantidad_talles": 6,
+      "unidades": 10,
+      "cantidad_talles": 5,
       "precio": 16784
     },
     {
@@ -549,11 +548,11 @@
         "38.5": 1,
         "40": 2,
         "41": 3,
-        "42": 3,
+        "42": 2,
         "43": 2,
         "44.5": 1
       },
-      "unidades": 12,
+      "unidades": 11,
       "cantidad_talles": 6,
       "precio": 16784
     },
