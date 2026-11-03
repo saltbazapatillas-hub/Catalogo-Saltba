@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-03T13:22:58.351495+00:00",
-  "total": 32,
+  "actualizado": "2026-11-03T22:45:01.987902+00:00",
+  "total": 31,
   "productos": [
     {
       "codigo": "CC0020-2",
@@ -118,10 +118,10 @@
       "talles": {
         "35/36": 2,
         "37/38": 2,
-        "39/40": 6,
-        "41/42": 5
+        "39/40": 5,
+        "41/42": 4
       },
-      "unidades": 15,
+      "unidades": 13,
       "cantidad_talles": 4,
       "precio": 30263
     },
@@ -208,11 +208,10 @@
       "genero": "",
       "marca": "Ipanema",
       "talles": {
-        "34.5": 1,
-        "40.5": 1
+        "34.5": 1
       },
-      "unidades": 2,
-      "cantidad_talles": 2,
+      "unidades": 1,
+      "cantidad_talles": 1,
       "precio": 12649
     },
     {
@@ -230,22 +229,6 @@
       "unidades": 2,
       "cantidad_talles": 1,
       "precio": 13224
-    },
-    {
-      "codigo": "IP0027-1429",
-      "nombre": "Ipanema Cristal Sandalia AD",
-      "link": "https://articulo.mercadolibre.com.ar/MLA-1627718631-sandalias-mujer-ipanema-cristal-sandal-ad-_JM",
-      "imagen": "https://http2.mlstatic.com/D_894046-MLA103233650406_012026-O.webp",
-      "color": "IP0027-1429",
-      "modelo": "Ipanema Cristal Sandalia AD",
-      "genero": "",
-      "marca": "Ipanema",
-      "talles": {
-        "39": 1
-      },
-      "unidades": 1,
-      "cantidad_talles": 1,
-      "precio": 14374
     },
     {
       "codigo": "IP0030-1435",
@@ -389,10 +372,10 @@
       "talles": {
         "36": 1,
         "38": 2,
-        "39": 4,
+        "39": 3,
         "40.5": 1
       },
-      "unidades": 8,
+      "unidades": 7,
       "cantidad_talles": 4,
       "precio": 16307
     },
@@ -526,11 +509,11 @@
       "marca": "Rider",
       "talles": {
         "40": 1,
-        "41": 3,
+        "41": 2,
         "42": 3,
         "43": 2
       },
-      "unidades": 9,
+      "unidades": 8,
       "cantidad_talles": 4,
       "precio": 16784
     },
@@ -548,10 +531,10 @@
         "40": 2,
         "41": 3,
         "42": 2,
-        "43": 2,
+        "43": 1,
         "44.5": 1
       },
-      "unidades": 11,
+      "unidades": 10,
       "cantidad_talles": 6,
       "precio": 16784
     },
@@ -566,12 +549,12 @@
       "marca": "Rider",
       "talles": {
         "38.5": 1,
-        "40": 2,
+        "40": 1,
         "41": 2,
-        "42": 3,
+        "42": 2,
         "43": 1
       },
-      "unidades": 9,
+      "unidades": 7,
       "cantidad_talles": 5,
       "precio": 16784
     }
