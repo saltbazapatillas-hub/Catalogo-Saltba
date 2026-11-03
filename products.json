@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-03T00:15:24.213230+00:00",
+  "actualizado": "2026-11-03T13:22:58.351495+00:00",
   "total": 32,
   "productos": [
     {
@@ -351,11 +351,11 @@
       "talles": {
         "36": 2,
         "37": 2,
-        "38": 5,
+        "38": 4,
         "39": 8,
         "40.5": 3
       },
-      "unidades": 20,
+      "unidades": 19,
       "cantidad_talles": 5,
       "precio": 16307
     },
@@ -528,11 +528,10 @@
         "40": 1,
         "41": 3,
         "42": 3,
-        "43": 2,
-        "44.5": 1
+        "43": 2
       },
-      "unidades": 10,
-      "cantidad_talles": 5,
+      "unidades": 9,
+      "cantidad_talles": 4,
       "precio": 16784
     },
     {
