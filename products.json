@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-05T13:47:44.336172+00:00",
+  "actualizado": "2026-11-05T23:06:18.722473+00:00",
   "total": 30,
   "productos": [
     {
@@ -92,7 +92,7 @@
       "codigo": "HA0134-3544",
       "nombre": "Havaianas Slide Classic Brasil",
       "link": "https://articulo.mercadolibre.com.ar/MLA-1947321388-ojotas-havaianas-mujer-chilenas-slide-classic-brasil-_JM",
-      "imagen": "https://http2.mlstatic.com/D_963444-MLA81363136611_122024-O.webp",
+      "imagen": "https://http2.mlstatic.com/D_616324-MLA119186331852_112026-O.jpg",
       "color": "HA0134-3544",
       "modelo": "Havaianas Slide Classic Brasil",
       "genero": "",
@@ -116,12 +116,12 @@
       "genero": "",
       "marca": "Havaianas",
       "talles": {
-        "35/36": 2,
+        "35/36": 1,
         "37/38": 2,
         "39/40": 5,
         "41/42": 4
       },
-      "unidades": 13,
+      "unidades": 12,
       "cantidad_talles": 4,
       "precio": 30263
     },
@@ -329,19 +329,20 @@
     {
       "codigo": "IP0052-141",
       "nombre": "Ipanema Shine Slide",
-      "link": "https://articulo.mercadolibre.com.ar/MLA-2157342729-sandalias-ipanema-shine-slide-ojotas-mujer-negrobeige-38-ar-_JM",
+      "link": "https://articulo.mercadolibre.com.ar/MLA-2157304795-sandalias-ipanema-shine-slide-ojotas-mujer-negrobeige-37-ar-_JM",
       "imagen": "https://http2.mlstatic.com/D_664497-MLA118844234017_102026-O.webp",
       "color": "IP0052-141",
       "modelo": "Ipanema Shine Slide",
       "genero": "",
       "marca": "Ipanema",
       "talles": {
+        "37": 1,
         "38": 2,
-        "39": 5,
+        "39": 4,
         "40.5": 1
       },
       "unidades": 8,
-      "cantidad_talles": 3,
+      "cantidad_talles": 4,
       "precio": 16307
     },
     {
@@ -494,11 +495,10 @@
       "talles": {
         "40": 1,
         "41": 2,
-        "42": 3,
-        "43": 1
+        "42": 2
       },
-      "unidades": 7,
-      "cantidad_talles": 4,
+      "unidades": 5,
+      "cantidad_talles": 3,
       "precio": 16784
     },
     {
