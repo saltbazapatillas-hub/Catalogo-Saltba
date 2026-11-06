@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-05T23:06:18.722473+00:00",
+  "actualizado": "2026-11-06T04:30:47.148463+00:00",
   "total": 30,
   "productos": [
     {
@@ -486,19 +486,18 @@
     {
       "codigo": "RD0002-26",
       "nombre": "Rider Feel Slide AD",
-      "link": "https://articulo.mercadolibre.com.ar/MLA-2185922361-ojotas-hombre-rider-feel-slide-ad-chancletas-negro-40-ar-_JM",
+      "link": "https://articulo.mercadolibre.com.ar/MLA-2185898325-ojotas-hombre-rider-feel-slide-ad-chancletas-negro-41-ar-_JM",
       "imagen": "https://http2.mlstatic.com/D_932364-MLA117733719818_102026-O.webp",
       "color": "RD0002-26",
       "modelo": "Rider Feel Slide AD",
       "genero": "",
       "marca": "Rider",
       "talles": {
-        "40": 1,
         "41": 2,
         "42": 2
       },
-      "unidades": 5,
-      "cantidad_talles": 3,
+      "unidades": 4,
+      "cantidad_talles": 2,
       "precio": 16784
     },
     {
