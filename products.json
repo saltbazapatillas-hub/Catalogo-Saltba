@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-06T04:30:47.148463+00:00",
+  "actualizado": "2026-11-06T13:32:01.961513+00:00",
   "total": 30,
   "productos": [
     {
@@ -532,9 +532,9 @@
       "talles": {
         "38.5": 1,
         "40": 1,
-        "41": 2
+        "41": 1
       },
-      "unidades": 4,
+      "unidades": 3,
       "cantidad_talles": 3,
       "precio": 16784
     }
