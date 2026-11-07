@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-07T12:12:30.585054+00:00",
+  "actualizado": "2026-11-07T21:16:25.229921+00:00",
   "total": 30,
   "productos": [
     {
@@ -391,11 +391,11 @@
       "marca": "One",
       "talles": {
         "36": 1,
-        "37": 6,
+        "37": 5,
         "38": 5,
         "39": 4
       },
-      "unidades": 16,
+      "unidades": 15,
       "cantidad_talles": 4,
       "precio": 22550
     },
