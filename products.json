@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-08T12:32:43.477886+00:00",
+  "actualizado": "2026-11-08T21:31:02.094588+00:00",
   "total": 30,
   "productos": [
     {
@@ -270,7 +270,7 @@
       "codigo": "IP0047-141",
       "nombre": "Ipanema Shine Slide Trendy",
       "link": "https://articulo.mercadolibre.com.ar/MLA-2155144899-ojotas-mujer-ipanema-shine-slide-trendy-negrobeige-36-ar-_JM",
-      "imagen": "https://http2.mlstatic.com/D_720347-MLA117211349072_102026-O.jpg",
+      "imagen": "https://http2.mlstatic.com/D_697682-MLA117251180384_102026-O.jpg",
       "color": "IP0047-141",
       "modelo": "Ipanema Shine Slide Trendy",
       "genero": "",
@@ -316,13 +316,13 @@
       "genero": "",
       "marca": "Ipanema",
       "talles": {
-        "36": 2,
-        "37": 2,
+        "36": 1,
+        "37": 1,
         "38": 4,
         "39": 8,
         "40.5": 3
       },
-      "unidades": 19,
+      "unidades": 17,
       "cantidad_talles": 5,
       "precio": 16307
     },
@@ -338,10 +338,10 @@
       "talles": {
         "37": 1,
         "38": 2,
-        "39": 4,
+        "39": 3,
         "40.5": 1
       },
-      "unidades": 8,
+      "unidades": 7,
       "cantidad_talles": 4,
       "precio": 16307
     },
@@ -356,11 +356,11 @@
       "marca": "Ipanema",
       "talles": {
         "36": 1,
-        "38": 2,
+        "38": 1,
         "39": 3,
         "40.5": 1
       },
-      "unidades": 7,
+      "unidades": 6,
       "cantidad_talles": 4,
       "precio": 16307
     },
