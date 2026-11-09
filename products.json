@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-08T21:31:02.094588+00:00",
+  "actualizado": "2026-11-09T03:55:27.080937+00:00",
   "total": 30,
   "productos": [
     {
@@ -530,11 +530,10 @@
       "marca": "Rider",
       "talles": {
         "38.5": 1,
-        "40": 1,
         "41": 1
       },
-      "unidades": 3,
-      "cantidad_talles": 3,
+      "unidades": 2,
+      "cantidad_talles": 2,
       "precio": 16784
     }
   ]
