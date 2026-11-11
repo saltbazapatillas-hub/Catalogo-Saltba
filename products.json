@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-11T03:59:31.327440+00:00",
+  "actualizado": "2026-11-11T13:20:24.264111+00:00",
   "total": 30,
   "productos": [
     {
@@ -108,39 +108,37 @@
     {
       "codigo": "HA0178-90",
       "nombre": "Havaianas Slide Zero",
-      "link": "https://articulo.mercadolibre.com.ar/MLA-2060892833-havaianas-ojotas-chancletas-slide-zero-originales-unisex-negro-3536-_JM",
+      "link": "https://articulo.mercadolibre.com.ar/MLA-2060892835-havaianas-ojotas-chancletas-slide-zero-originales-unisex-negro-3738-_JM",
       "imagen": "https://http2.mlstatic.com/D_614491-MLA117323494712_102026-O.webp",
       "color": "HA0178-90",
       "modelo": "Havaianas Slide Zero",
       "genero": "",
       "marca": "Havaianas",
       "talles": {
-        "35/36": 1,
         "37/38": 2,
         "39/40": 5,
         "41/42": 4
       },
-      "unidades": 12,
-      "cantidad_talles": 4,
+      "unidades": 11,
+      "cantidad_talles": 3,
       "precio": 30263
     },
     {
       "codigo": "HA0179-4896",
       "nombre": "Havaianas Slide Strap",
-      "link": "https://articulo.mercadolibre.com.ar/MLA-2161362115-sandalias-ojotas-havaianas-slide-strap-hombre-verde-oliva-3940-_JM",
+      "link": "https://articulo.mercadolibre.com.ar/MLA-2161321349-sandalias-ojotas-havaianas-slide-strap-hombre-verde-oliva-4142-_JM",
       "imagen": "https://http2.mlstatic.com/D_850346-MLA118917544049_102026-O.webp",
       "color": "HA0179-4896",
       "modelo": "Havaianas Slide Strap",
       "genero": "",
       "marca": "Havaianas",
       "talles": {
-        "39/40": 1,
         "41/42": 4,
         "43/44": 4,
         "45/46": 1
       },
-      "unidades": 10,
-      "cantidad_talles": 4,
+      "unidades": 9,
+      "cantidad_talles": 3,
       "precio": 40526
     },
     {
