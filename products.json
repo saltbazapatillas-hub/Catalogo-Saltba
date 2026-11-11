@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-11T13:20:24.264111+00:00",
-  "total": 30,
+  "actualizado": "2026-11-11T23:54:20.925369+00:00",
+  "total": 29,
   "productos": [
     {
       "codigo": "CC0020-2",
@@ -109,7 +109,7 @@
       "codigo": "HA0178-90",
       "nombre": "Havaianas Slide Zero",
       "link": "https://articulo.mercadolibre.com.ar/MLA-2060892835-havaianas-ojotas-chancletas-slide-zero-originales-unisex-negro-3738-_JM",
-      "imagen": "https://http2.mlstatic.com/D_614491-MLA117323494712_102026-O.webp",
+      "imagen": "https://http2.mlstatic.com/D_799696-MLA119580339142_112026-O.webp",
       "color": "HA0178-90",
       "modelo": "Havaianas Slide Zero",
       "genero": "",
@@ -117,10 +117,31 @@
       "talles": {
         "37/38": 2,
         "39/40": 5,
-        "41/42": 4
+        "41/42": 4,
+        "43/44": 8,
+        "45/46": 4
       },
-      "unidades": 11,
-      "cantidad_talles": 3,
+      "unidades": 23,
+      "cantidad_talles": 5,
+      "precio": 30263
+    },
+    {
+      "codigo": "HA0178-3180",
+      "nombre": "Havaianas Slide Zero",
+      "link": "https://articulo.mercadolibre.com.ar/MLA-4188649768-havaianas-ojotas-chancletas-slide-zero-originales-unisex-rojo-3536-_JM",
+      "imagen": "https://http2.mlstatic.com/D_614491-MLA117323494712_102026-O.webp",
+      "color": "HA0178-3180",
+      "modelo": "Havaianas Slide Zero",
+      "genero": "",
+      "marca": "Havaianas",
+      "talles": {
+        "35/36": 2,
+        "37/38": 5,
+        "39/40": 4,
+        "41/42": 1
+      },
+      "unidades": 12,
+      "cantidad_talles": 4,
       "precio": 30263
     },
     {
@@ -145,7 +166,7 @@
       "codigo": "HA0179-90",
       "nombre": "Havaianas Slide Strap",
       "link": "https://articulo.mercadolibre.com.ar/MLA-2161362117-sandalias-ojotas-havaianas-slide-strap-hombre-negro-3940-_JM",
-      "imagen": "https://http2.mlstatic.com/D_790142-MLA118457296657_092026-O.jpg",
+      "imagen": "https://http2.mlstatic.com/D_792084-MLA119583800352_112026-O.jpg",
       "color": "HA0179-90",
       "modelo": "Havaianas Slide Strap",
       "genero": "",
@@ -228,22 +249,6 @@
       "precio": 13224
     },
     {
-      "codigo": "IP0036-1442",
-      "nombre": "Ipanema Glow Trendy Slide AD",
-      "link": "https://articulo.mercadolibre.com.ar/MLA-2747742682-ojotas-ipanema-glow-trendy-slide-ad-_JM",
-      "imagen": "https://http2.mlstatic.com/D_701437-MLA102911571394_012026-O.jpg",
-      "color": "IP0036-1442",
-      "modelo": "Ipanema Glow Trendy Slide AD",
-      "genero": "",
-      "marca": "Ipanema",
-      "talles": {
-        "36": 1
-      },
-      "unidades": 1,
-      "cantidad_talles": 1,
-      "precio": 11499
-    },
-    {
       "codigo": "IP0047-1624",
       "nombre": "Ipanema Shine Slide Trendy",
       "link": "https://articulo.mercadolibre.com.ar/MLA-4032182692-ojotas-mujer-ipanema-shine-slide-trendy-marron-manteca-36-ar-_JM",
@@ -317,28 +322,27 @@
         "37": 1,
         "38": 4,
         "39": 8,
-        "40.5": 3
+        "40.5": 2
       },
-      "unidades": 17,
+      "unidades": 16,
       "cantidad_talles": 5,
       "precio": 16307
     },
     {
       "codigo": "IP0052-141",
       "nombre": "Ipanema Shine Slide",
-      "link": "https://articulo.mercadolibre.com.ar/MLA-2157304795-sandalias-ipanema-shine-slide-ojotas-mujer-negrobeige-37-ar-_JM",
+      "link": "https://articulo.mercadolibre.com.ar/MLA-2157342729-sandalias-ipanema-shine-slide-ojotas-mujer-negrobeige-38-ar-_JM",
       "imagen": "https://http2.mlstatic.com/D_664497-MLA118844234017_102026-O.webp",
       "color": "IP0052-141",
       "modelo": "Ipanema Shine Slide",
       "genero": "",
       "marca": "Ipanema",
       "talles": {
-        "37": 1,
         "38": 2,
         "39": 3
       },
-      "unidades": 6,
-      "cantidad_talles": 3,
+      "unidades": 5,
+      "cantidad_talles": 2,
       "precio": 16307
     },
     {
@@ -353,9 +357,9 @@
       "talles": {
         "36": 1,
         "38": 1,
-        "39": 3
+        "39": 2
       },
-      "unidades": 5,
+      "unidades": 4,
       "cantidad_talles": 3,
       "precio": 16307
     },
@@ -499,7 +503,7 @@
       "codigo": "RD0003-1638",
       "nombre": "Rider Street Slide AD",
       "link": "https://articulo.mercadolibre.com.ar/MLA-4075006008-ojotas-chancletas-rider-street-slide-ad-hombre-azul-385-ar-_JM",
-      "imagen": "https://http2.mlstatic.com/D_910491-MLA119473534285_102026-O.jpg",
+      "imagen": "https://http2.mlstatic.com/D_811842-MLA80426513973_112024-O.jpg",
       "color": "RD0003-1638",
       "modelo": "Rider Street Slide AD",
       "genero": "",
@@ -512,23 +516,6 @@
       },
       "unidades": 7,
       "cantidad_talles": 4,
-      "precio": 16784
-    },
-    {
-      "codigo": "RD0003-231",
-      "nombre": "Rider Street Slide AD",
-      "link": "https://articulo.mercadolibre.com.ar/MLA-2196204691-ojotas-chancletas-rider-street-slide-ad-hombre-negras-negro-385-ar-con-embalaje-adicional-_JM",
-      "imagen": "https://http2.mlstatic.com/D_811842-MLA80426513973_112024-O.jpg",
-      "color": "RD0003-231",
-      "modelo": "Rider Street Slide AD",
-      "genero": "",
-      "marca": "Rider",
-      "talles": {
-        "38.5": 1,
-        "41": 1
-      },
-      "unidades": 2,
-      "cantidad_talles": 2,
       "precio": 16784
     }
   ]
