@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-12T05:10:47.120533+00:00",
-  "total": 29,
+  "actualizado": "2026-11-12T14:24:10.131076+00:00",
+  "total": 30,
   "productos": [
     {
       "codigo": "CC0020-2",
@@ -249,6 +249,22 @@
       "precio": 13224
     },
     {
+      "codigo": "IP0030-1435",
+      "nombre": "Ipanema Glow Slide AD",
+      "link": "https://articulo.mercadolibre.com.ar/MLA-2747871314-ojota-mujer-ipanema-glow-slide-ad-_JM",
+      "imagen": "https://http2.mlstatic.com/D_701437-MLA102911571394_012026-O.jpg",
+      "color": "IP0030-1435",
+      "modelo": "Ipanema Glow Slide AD",
+      "genero": "",
+      "marca": "Ipanema",
+      "talles": {
+        "36": 1
+      },
+      "unidades": 1,
+      "cantidad_talles": 1,
+      "precio": 7819
+    },
+    {
       "codigo": "IP0047-1624",
       "nombre": "Ipanema Shine Slide Trendy",
       "link": "https://articulo.mercadolibre.com.ar/MLA-4032182692-ojotas-mujer-ipanema-shine-slide-trendy-marron-manteca-36-ar-_JM",
@@ -301,10 +317,10 @@
         "36": 2,
         "37": 3,
         "38": 6,
-        "39": 7,
+        "39": 8,
         "40.5": 4
       },
-      "unidades": 22,
+      "unidades": 23,
       "cantidad_talles": 5,
       "precio": 16307
     },
