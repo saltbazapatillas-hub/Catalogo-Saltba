@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-13T13:43:23.030076+00:00",
+  "actualizado": "2026-11-13T23:05:40.409692+00:00",
   "total": 28,
   "productos": [
     {
@@ -285,10 +285,10 @@
         "36": 2,
         "37": 3,
         "38": 6,
-        "39": 8,
+        "39": 7,
         "40.5": 4
       },
-      "unidades": 23,
+      "unidades": 22,
       "cantidad_talles": 5,
       "precio": 16307
     },
@@ -303,29 +303,27 @@
       "marca": "Ipanema",
       "talles": {
         "36": 1,
-        "38": 4,
-        "39": 8,
-        "40.5": 1
+        "38": 2,
+        "39": 8
       },
-      "unidades": 14,
-      "cantidad_talles": 4,
+      "unidades": 11,
+      "cantidad_talles": 3,
       "precio": 16307
     },
     {
       "codigo": "IP0052-141",
       "nombre": "Ipanema Shine Slide",
-      "link": "https://articulo.mercadolibre.com.ar/MLA-2157342729-sandalias-ipanema-shine-slide-ojotas-mujer-negrobeige-38-ar-_JM",
+      "link": "https://articulo.mercadolibre.com.ar/MLA-2157304903-sandalias-ipanema-shine-slide-ojotas-mujer-negro-y-beige-negrobeige-39-ar-_JM",
       "imagen": "https://http2.mlstatic.com/D_664497-MLA118844234017_102026-O.webp",
       "color": "IP0052-141",
       "modelo": "Ipanema Shine Slide",
       "genero": "",
       "marca": "Ipanema",
       "talles": {
-        "38": 1,
         "39": 3
       },
-      "unidades": 4,
-      "cantidad_talles": 2,
+      "unidades": 3,
+      "cantidad_talles": 1,
       "precio": 16307
     },
     {
