@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-14T04:23:07.492544+00:00",
+  "actualizado": "2026-11-14T12:47:23.110760+00:00",
   "total": 28,
   "productos": [
     {
@@ -115,13 +115,13 @@
       "genero": "",
       "marca": "Havaianas",
       "talles": {
-        "37/38": 2,
+        "37/38": 1,
         "39/40": 4,
         "41/42": 4,
-        "43/44": 8,
+        "43/44": 7,
         "45/46": 4
       },
-      "unidades": 22,
+      "unidades": 20,
       "cantidad_talles": 5,
       "precio": 30263
     },
@@ -295,19 +295,18 @@
     {
       "codigo": "IP0052-669",
       "nombre": "Ipanema Shine Slide",
-      "link": "https://articulo.mercadolibre.com.ar/MLA-4080154168-sandalias-ipanema-shine-slide-ojotas-mujer-marron-36-ar-_JM",
+      "link": "https://articulo.mercadolibre.com.ar/MLA-4080105800-sandalias-ipanema-shine-slide-ojotas-mujer-marron-38-ar-_JM",
       "imagen": "https://http2.mlstatic.com/D_973235-MLA117254347118_102026-O.webp",
       "color": "IP0052-669",
       "modelo": "Ipanema Shine Slide",
       "genero": "",
       "marca": "Ipanema",
       "talles": {
-        "36": 1,
         "38": 2,
         "39": 8
       },
-      "unidades": 11,
-      "cantidad_talles": 3,
+      "unidades": 10,
+      "cantidad_talles": 2,
       "precio": 16307
     },
     {
