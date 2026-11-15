@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-15T13:15:07.074310+00:00",
+  "actualizado": "2026-11-15T22:20:36.277156+00:00",
   "total": 28,
   "productos": [
     {
@@ -173,11 +173,11 @@
       "marca": "Havaianas",
       "talles": {
         "39/40": 4,
-        "41/42": 7,
+        "41/42": 6,
         "43/44": 8,
-        "45/46": 4
+        "45/46": 3
       },
-      "unidades": 23,
+      "unidades": 21,
       "cantidad_talles": 4,
       "precio": 40526
     },
@@ -319,9 +319,9 @@
       "genero": "",
       "marca": "Ipanema",
       "talles": {
-        "39": 2
+        "39": 1
       },
-      "unidades": 2,
+      "unidades": 1,
       "cantidad_talles": 1,
       "precio": 16307
     },
