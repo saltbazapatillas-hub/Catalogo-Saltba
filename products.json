@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-16T04:07:12.179342+00:00",
-  "total": 28,
+  "actualizado": "2026-11-16T14:26:02.052569+00:00",
+  "total": 29,
   "productos": [
     {
       "codigo": "CC0020-2",
@@ -215,6 +215,22 @@
       "unidades": 1,
       "cantidad_talles": 1,
       "precio": 10924
+    },
+    {
+      "codigo": "IP0010-1342",
+      "nombre": "Ipanema LEME SLIDE FEM",
+      "link": "https://articulo.mercadolibre.com.ar/MLA-1599073905-ojotas-mujer-chinelas-ipanema-leme-slide-fem-_JM",
+      "imagen": "https://http2.mlstatic.com/D_939941-MLA101162326908_122025-O.webp",
+      "color": "IP0010-1342",
+      "modelo": "Ipanema LEME SLIDE FEM",
+      "genero": "",
+      "marca": "Ipanema",
+      "talles": {
+        "40.5": 1
+      },
+      "unidades": 1,
+      "cantidad_talles": 1,
+      "precio": 12649
     },
     {
       "codigo": "IP0011-232",
