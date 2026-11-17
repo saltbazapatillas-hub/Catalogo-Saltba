@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-17T01:22:26.891318+00:00",
+  "actualizado": "2026-11-17T15:18:20.098569+00:00",
   "total": 29,
   "productos": [
     {
@@ -297,12 +297,12 @@
       "marca": "Ipanema",
       "talles": {
         "36": 2,
-        "37": 1,
+        "37": 2,
         "38": 5,
         "39": 7,
         "40.5": 4
       },
-      "unidades": 19,
+      "unidades": 20,
       "cantidad_talles": 5,
       "precio": 16307
     },
@@ -316,10 +316,10 @@
       "genero": "",
       "marca": "Ipanema",
       "talles": {
-        "38": 2,
+        "38": 1,
         "39": 8
       },
-      "unidades": 10,
+      "unidades": 9,
       "cantidad_talles": 2,
       "precio": 16307
     },
