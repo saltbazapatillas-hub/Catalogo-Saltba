@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-16T14:26:02.052569+00:00",
+  "actualizado": "2026-11-17T01:22:26.891318+00:00",
   "total": 29,
   "productos": [
     {
@@ -116,13 +116,12 @@
       "marca": "Havaianas",
       "talles": {
         "37/38": 1,
-        "39/40": 4,
-        "41/42": 3,
-        "43/44": 6,
-        "45/46": 4
+        "39/40": 2,
+        "43/44": 2,
+        "45/46": 2
       },
-      "unidades": 18,
-      "cantidad_talles": 5,
+      "unidades": 7,
+      "cantidad_talles": 4,
       "precio": 30263
     },
     {
@@ -154,11 +153,11 @@
       "genero": "",
       "marca": "Havaianas",
       "talles": {
-        "41/42": 4,
+        "41/42": 3,
         "43/44": 4,
         "45/46": 1
       },
-      "unidades": 9,
+      "unidades": 8,
       "cantidad_talles": 3,
       "precio": 40526
     },
@@ -193,11 +192,10 @@
       "talles": {
         "27.5": 3,
         "29": 2,
-        "30": 2,
-        "31": 1
+        "30": 2
       },
-      "unidades": 8,
-      "cantidad_talles": 4,
+      "unidades": 7,
+      "cantidad_talles": 3,
       "precio": 10924
     },
     {
@@ -272,7 +270,7 @@
       "codigo": "IP0047-141",
       "nombre": "Ipanema Shine Slide Trendy",
       "link": "https://articulo.mercadolibre.com.ar/MLA-2155144899-ojotas-mujer-ipanema-shine-slide-trendy-negrobeige-36-ar-_JM",
-      "imagen": "https://http2.mlstatic.com/D_621670-MLA117251180378_102026-O.jpg",
+      "imagen": "https://http2.mlstatic.com/D_878987-MLA118840861395_102026-O.jpg",
       "color": "IP0047-141",
       "modelo": "Ipanema Shine Slide Trendy",
       "genero": "",
@@ -280,11 +278,11 @@
       "talles": {
         "36": 4,
         "37": 8,
-        "38": 12,
+        "38": 11,
         "39": 16,
         "40.5": 8
       },
-      "unidades": 48,
+      "unidades": 47,
       "cantidad_talles": 5,
       "precio": 18722
     },
@@ -300,11 +298,11 @@
       "talles": {
         "36": 2,
         "37": 1,
-        "38": 6,
+        "38": 5,
         "39": 7,
         "40.5": 4
       },
-      "unidades": 20,
+      "unidades": 19,
       "cantidad_talles": 5,
       "precio": 16307
     },
@@ -487,10 +485,10 @@
       "genero": "",
       "marca": "Rider",
       "talles": {
-        "41": 2,
+        "41": 1,
         "42": 2
       },
-      "unidades": 4,
+      "unidades": 3,
       "cantidad_talles": 2,
       "precio": 16784
     },
