@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-18T00:18:58.670266+00:00",
-  "total": 30,
+  "actualizado": "2026-11-18T14:53:56.677863+00:00",
+  "total": 29,
   "productos": [
     {
       "codigo": "CC0020-2",
@@ -117,11 +117,10 @@
       "talles": {
         "37/38": 1,
         "39/40": 2,
-        "43/44": 1,
         "45/46": 2
       },
-      "unidades": 6,
-      "cantidad_talles": 4,
+      "unidades": 5,
+      "cantidad_talles": 3,
       "precio": 30263
     },
     {
@@ -173,10 +172,10 @@
       "talles": {
         "39/40": 4,
         "41/42": 5,
-        "43/44": 7,
+        "43/44": 6,
         "45/46": 3
       },
-      "unidades": 19,
+      "unidades": 18,
       "cantidad_talles": 4,
       "precio": 40526
     },
@@ -240,9 +239,9 @@
       "genero": "",
       "marca": "Ipanema",
       "talles": {
-        "44.5": 2
+        "44.5": 1
       },
-      "unidades": 2,
+      "unidades": 1,
       "cantidad_talles": 1,
       "precio": 13224
     },
@@ -280,9 +279,9 @@
         "37": 8,
         "38": 11,
         "39": 16,
-        "40.5": 8
+        "40.5": 7
       },
-      "unidades": 47,
+      "unidades": 46,
       "cantidad_talles": 5,
       "precio": 18722
     },
@@ -310,7 +309,7 @@
       "codigo": "IP0052-669",
       "nombre": "Ipanema Shine Slide",
       "link": "https://articulo.mercadolibre.com.ar/MLA-4080105800-sandalias-ipanema-shine-slide-ojotas-mujer-marron-38-ar-_JM",
-      "imagen": "https://http2.mlstatic.com/D_973235-MLA117254347118_102026-O.webp",
+      "imagen": "https://http2.mlstatic.com/D_664497-MLA118844234017_102026-O.webp",
       "color": "IP0052-669",
       "modelo": "Ipanema Shine Slide",
       "genero": "",
@@ -321,22 +320,6 @@
       },
       "unidades": 9,
       "cantidad_talles": 2,
-      "precio": 16307
-    },
-    {
-      "codigo": "IP0052-141",
-      "nombre": "Ipanema Shine Slide",
-      "link": "https://articulo.mercadolibre.com.ar/MLA-2157304903-sandalias-ipanema-shine-slide-ojotas-mujer-negro-y-beige-negrobeige-39-ar-_JM",
-      "imagen": "https://http2.mlstatic.com/D_664497-MLA118844234017_102026-O.webp",
-      "color": "IP0052-141",
-      "modelo": "Ipanema Shine Slide",
-      "genero": "",
-      "marca": "Ipanema",
-      "talles": {
-        "39": 1
-      },
-      "unidades": 1,
-      "cantidad_talles": 1,
       "precio": 16307
     },
     {
