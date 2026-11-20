@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-20T14:41:52.865161+00:00",
-  "total": 28,
+  "actualizado": "2026-11-20T23:31:59.358730+00:00",
+  "total": 27,
   "productos": [
     {
       "codigo": "CC0020-2",
@@ -239,13 +239,13 @@
       "genero": "",
       "marca": "Ipanema",
       "talles": {
-        "36": 4,
+        "36": 3,
         "37": 6,
         "38": 11,
         "39": 13,
         "40.5": 4
       },
-      "unidades": 38,
+      "unidades": 37,
       "cantidad_talles": 5,
       "precio": 18722
     },
@@ -292,18 +292,17 @@
     {
       "codigo": "IP0052-669",
       "nombre": "Ipanema Shine Slide",
-      "link": "https://articulo.mercadolibre.com.ar/MLA-4080105800-sandalias-ipanema-shine-slide-ojotas-mujer-marron-38-ar-_JM",
+      "link": "https://articulo.mercadolibre.com.ar/MLA-4080154166-sandalias-ipanema-shine-slide-ojotas-mujer-marron-39-ar-_JM",
       "imagen": "https://http2.mlstatic.com/D_664497-MLA118844234017_102026-O.webp",
       "color": "IP0052-669",
       "modelo": "Ipanema Shine Slide",
       "genero": "",
       "marca": "Ipanema",
       "talles": {
-        "38": 1,
         "39": 6
       },
-      "unidades": 7,
-      "cantidad_talles": 2,
+      "unidades": 6,
+      "cantidad_talles": 1,
       "precio": 16307
     },
     {
@@ -463,7 +462,7 @@
       "codigo": "RD0003-1638",
       "nombre": "Rider Street Slide AD",
       "link": "https://articulo.mercadolibre.com.ar/MLA-4075006008-ojotas-chancletas-rider-street-slide-ad-hombre-azul-385-ar-_JM",
-      "imagen": "https://http2.mlstatic.com/D_817065-MLA119460804061_102026-O.jpg",
+      "imagen": "https://http2.mlstatic.com/D_811842-MLA80426513973_112024-O.jpg",
       "color": "RD0003-1638",
       "modelo": "Rider Street Slide AD",
       "genero": "",
@@ -471,27 +470,11 @@
       "talles": {
         "38.5": 1,
         "40": 2,
-        "41": 2,
+        "41": 1,
         "42": 1
       },
-      "unidades": 6,
+      "unidades": 5,
       "cantidad_talles": 4,
-      "precio": 16784
-    },
-    {
-      "codigo": "RD0003-231",
-      "nombre": "Rider Street Slide AD",
-      "link": "https://articulo.mercadolibre.com.ar/MLA-4080158546-ojotas-chancletas-rider-street-slide-ad-hombre-negro-43-ar-_JM",
-      "imagen": "https://http2.mlstatic.com/D_811842-MLA80426513973_112024-O.jpg",
-      "color": "RD0003-231",
-      "modelo": "Rider Street Slide AD",
-      "genero": "",
-      "marca": "Rider",
-      "talles": {
-        "43": 1
-      },
-      "unidades": 1,
-      "cantidad_talles": 1,
       "precio": 16784
     }
   ]
