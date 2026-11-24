@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-23T16:59:14.405854+00:00",
+  "actualizado": "2026-11-24T03:40:31.317246+00:00",
   "total": 27,
   "productos": [
     {
@@ -12,9 +12,9 @@
       "genero": "",
       "marca": "Crocs",
       "talles": {
-        "M13": 4
+        "M13": 3
       },
-      "unidades": 4,
+      "unidades": 3,
       "cantidad_talles": 1,
       "precio": 36790
     },
@@ -117,9 +117,9 @@
       "talles": {
         "37/38": 1,
         "39/40": 2,
-        "45/46": 2
+        "45/46": 1
       },
-      "unidades": 5,
+      "unidades": 4,
       "cantidad_talles": 3,
       "precio": 30263
     },
@@ -452,9 +452,9 @@
       "marca": "Rider",
       "talles": {
         "41": 1,
-        "42": 2
+        "42": 1
       },
-      "unidades": 3,
+      "unidades": 2,
       "cantidad_talles": 2,
       "precio": 16784
     },
@@ -470,11 +470,10 @@
       "talles": {
         "38.5": 1,
         "40": 2,
-        "41": 1,
-        "42": 1
+        "41": 1
       },
-      "unidades": 5,
-      "cantidad_talles": 4,
+      "unidades": 4,
+      "cantidad_talles": 3,
       "precio": 16784
     }
   ]
