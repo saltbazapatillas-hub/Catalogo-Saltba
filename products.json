@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-24T03:40:31.317246+00:00",
-  "total": 27,
+  "actualizado": "2026-11-24T16:47:18.245479+00:00",
+  "total": 28,
   "productos": [
     {
       "codigo": "CC0020-2",
@@ -116,11 +116,10 @@
       "marca": "Havaianas",
       "talles": {
         "37/38": 1,
-        "39/40": 2,
-        "45/46": 1
+        "39/40": 1
       },
-      "unidades": 4,
-      "cantidad_talles": 3,
+      "unidades": 2,
+      "cantidad_talles": 2,
       "precio": 30263
     },
     {
@@ -230,6 +229,26 @@
       "precio": 12649
     },
     {
+      "codigo": "IP0036-1442",
+      "nombre": "Ipanema Glow Trendy Slide AD",
+      "link": "https://articulo.mercadolibre.com.ar/MLA-2747742682-ojotas-ipanema-glow-trendy-slide-ad-_JM",
+      "imagen": "https://http2.mlstatic.com/D_701437-MLA102911571394_012026-O.jpg",
+      "color": "IP0036-1442",
+      "modelo": "Ipanema Glow Trendy Slide AD",
+      "genero": "",
+      "marca": "Ipanema",
+      "talles": {
+        "36": 2,
+        "37": 4,
+        "38": 6,
+        "39": 8,
+        "40.5": 4
+      },
+      "unidades": 24,
+      "cantidad_talles": 5,
+      "precio": 11499
+    },
+    {
       "codigo": "IP0047-1624",
       "nombre": "Ipanema Shine Slide Trendy",
       "link": "https://articulo.mercadolibre.com.ar/MLA-4032182692-ojotas-mujer-ipanema-shine-slide-trendy-marron-manteca-36-ar-_JM",
@@ -243,9 +262,9 @@
         "37": 6,
         "38": 11,
         "39": 13,
-        "40.5": 4
+        "40.5": 3
       },
-      "unidades": 37,
+      "unidades": 36,
       "cantidad_talles": 5,
       "precio": 18722
     },
