@@ -1,7 +1,61 @@
 {
-  "actualizado": "2026-11-25T01:47:33.021001+00:00",
-  "total": 28,
+  "actualizado": "2026-11-25T16:35:31.886903+00:00",
+  "total": 31,
   "productos": [
+    {
+      "codigo": "YC0143-7",
+      "nombre": "Chimmy Churry SANDALIA MAR",
+      "link": "https://articulo.mercadolibre.com.ar/MLA-2320930681-sandalias-mujer-chimmy-churry-mar-beige-35-36-_JM",
+      "imagen": "https://http2.mlstatic.com/D_605480-MLA120593034616_112026-O.webp",
+      "color": "YC0143-7",
+      "modelo": "Chimmy Churry SANDALIA MAR",
+      "genero": "",
+      "marca": "Chimmy",
+      "talles": {
+        "35/36": 10,
+        "37/38": 19,
+        "39/40": 13
+      },
+      "unidades": 42,
+      "cantidad_talles": 3,
+      "precio": 20000
+    },
+    {
+      "codigo": "YC0143-26",
+      "nombre": "Chimmy Churry SANDALIA MAR",
+      "link": "https://articulo.mercadolibre.com.ar/MLA-2320956045-sandalias-mujer-chimmy-churry-mar-negro-35-36-_JM",
+      "imagen": "https://http2.mlstatic.com/D_930495-MLA120592147400_112026-O.webp",
+      "color": "YC0143-26",
+      "modelo": "Chimmy Churry SANDALIA MAR",
+      "genero": "",
+      "marca": "Chimmy",
+      "talles": {
+        "35/36": 10,
+        "37/38": 18,
+        "39/40": 8
+      },
+      "unidades": 36,
+      "cantidad_talles": 3,
+      "precio": 20000
+    },
+    {
+      "codigo": "YC0143-1724",
+      "nombre": "Chimmy Churry SANDALIA MAR",
+      "link": "https://articulo.mercadolibre.com.ar/MLA-2320968203-sandalias-mujer-chimmy-churry-mar-verde-militar-35-36-_JM",
+      "imagen": "https://http2.mlstatic.com/D_765062-MLA82921751923_032025-O.webp",
+      "color": "YC0143-1724",
+      "modelo": "Chimmy Churry SANDALIA MAR",
+      "genero": "",
+      "marca": "Chimmy",
+      "talles": {
+        "35/36": 9,
+        "37/38": 20,
+        "39/40": 9
+      },
+      "unidades": 38,
+      "cantidad_talles": 3,
+      "precio": 20000
+    },
     {
       "codigo": "CC0020-2",
       "nombre": "Crocs Mellow Recovery Slide",
@@ -116,10 +170,11 @@
       "marca": "Havaianas",
       "talles": {
         "37/38": 1,
-        "39/40": 1
+        "39/40": 1,
+        "45/46": 1
       },
-      "unidades": 2,
-      "cantidad_talles": 2,
+      "unidades": 3,
+      "cantidad_talles": 3,
       "precio": 30263
     },
     {
@@ -241,10 +296,10 @@
         "36": 2,
         "37": 4,
         "38": 6,
-        "39": 8,
+        "39": 7,
         "40.5": 4
       },
-      "unidades": 24,
+      "unidades": 23,
       "cantidad_talles": 5,
       "precio": 11499
     },
@@ -259,12 +314,12 @@
       "marca": "Ipanema",
       "talles": {
         "36": 3,
-        "37": 6,
+        "37": 5,
         "38": 11,
-        "39": 13,
+        "39": 12,
         "40.5": 3
       },
-      "unidades": 36,
+      "unidades": 34,
       "cantidad_talles": 5,
       "precio": 18722
     },
@@ -318,9 +373,9 @@
       "genero": "",
       "marca": "Ipanema",
       "talles": {
-        "39": 4
+        "39": 3
       },
-      "unidades": 4,
+      "unidades": 3,
       "cantidad_talles": 1,
       "precio": 16307
     },
@@ -386,13 +441,11 @@
       "genero": "",
       "marca": "One",
       "talles": {
-        "37": 1,
-        "38": 2,
         "39": 5,
         "40": 1
       },
-      "unidades": 9,
-      "cantidad_talles": 4,
+      "unidades": 6,
+      "cantidad_talles": 2,
       "precio": 24750
     },
     {
