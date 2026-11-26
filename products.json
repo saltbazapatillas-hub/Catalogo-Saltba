@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-26T01:23:26.906551+00:00",
-  "total": 31,
+  "actualizado": "2026-11-26T16:07:50.950453+00:00",
+  "total": 30,
   "productos": [
     {
       "codigo": "YC0143-7",
@@ -12,11 +12,11 @@
       "genero": "",
       "marca": "Chimmy",
       "talles": {
-        "35/36": 10,
+        "35/36": 9,
         "37/38": 19,
         "39/40": 13
       },
-      "unidades": 42,
+      "unidades": 41,
       "cantidad_talles": 3,
       "precio": 20000
     },
@@ -49,10 +49,10 @@
       "marca": "Chimmy",
       "talles": {
         "35/36": 8,
-        "37/38": 20,
+        "37/38": 19,
         "39/40": 9
       },
-      "unidades": 37,
+      "unidades": 36,
       "cantidad_talles": 3,
       "precio": 20000
     },
@@ -60,7 +60,7 @@
       "codigo": "CC0020-2",
       "nombre": "Crocs Mellow Recovery Slide",
       "link": "https://articulo.mercadolibre.com.ar/MLA-1641346377-zuecos-crocs-mellow-recovery-slide-azul-marino-_JM",
-      "imagen": "https://http2.mlstatic.com/D_902127-MLA82604935422_032025-O.webp",
+      "imagen": "https://http2.mlstatic.com/D_831557-MLA81356214659_122024-O.jpg",
       "color": "CC0020-2",
       "modelo": "Crocs Mellow Recovery Slide",
       "genero": "",
@@ -294,12 +294,12 @@
       "marca": "Ipanema",
       "talles": {
         "36": 3,
-        "37": 6,
+        "37": 5,
         "38": 9,
         "39": 11,
         "40.5": 6
       },
-      "unidades": 35,
+      "unidades": 34,
       "cantidad_talles": 5,
       "precio": 11499
     },
@@ -316,10 +316,10 @@
         "36": 3,
         "37": 5,
         "38": 11,
-        "39": 11,
+        "39": 10,
         "40.5": 3
       },
-      "unidades": 33,
+      "unidades": 32,
       "cantidad_talles": 5,
       "precio": 18722
     },
@@ -327,7 +327,7 @@
       "codigo": "IP0047-141",
       "nombre": "Ipanema Shine Slide Trendy",
       "link": "https://articulo.mercadolibre.com.ar/MLA-2155144899-ojotas-mujer-ipanema-shine-slide-trendy-negrobeige-36-ar-_JM",
-      "imagen": "https://http2.mlstatic.com/D_884422-MLA117211935124_102026-O.webp",
+      "imagen": "https://http2.mlstatic.com/D_621670-MLA117251180378_102026-O.jpg",
       "color": "IP0047-141",
       "modelo": "Ipanema Shine Slide Trendy",
       "genero": "",
@@ -355,28 +355,29 @@
       "talles": {
         "36": 2,
         "37": 1,
-        "38": 4,
+        "38": 5,
         "39": 7,
         "40.5": 2
       },
-      "unidades": 16,
+      "unidades": 17,
       "cantidad_talles": 5,
       "precio": 16307
     },
     {
       "codigo": "IP0052-669",
       "nombre": "Ipanema Shine Slide",
-      "link": "https://articulo.mercadolibre.com.ar/MLA-4080154166-sandalias-ipanema-shine-slide-ojotas-mujer-marron-39-ar-_JM",
+      "link": "https://articulo.mercadolibre.com.ar/MLA-4080105800-sandalias-ipanema-shine-slide-ojotas-mujer-marron-38-ar-_JM",
       "imagen": "https://http2.mlstatic.com/D_664497-MLA118844234017_102026-O.webp",
       "color": "IP0052-669",
       "modelo": "Ipanema Shine Slide",
       "genero": "",
       "marca": "Ipanema",
       "talles": {
+        "38": 1,
         "39": 3
       },
-      "unidades": 3,
-      "cantidad_talles": 1,
+      "unidades": 4,
+      "cantidad_talles": 2,
       "precio": 16307
     },
     {
@@ -468,7 +469,7 @@
       "codigo": "OF0006-1056",
       "nombre": "One Flip TF587",
       "link": "https://articulo.mercadolibre.com.ar/MLA-2058866494-zapatillas-mujer-con-plataforma-one-flip-tf587-blanconiquel-_JM",
-      "imagen": "https://http2.mlstatic.com/D_778096-MLA83649425516_042025-O.webp",
+      "imagen": "https://http2.mlstatic.com/D_784248-MLA83942242943_042025-O.webp",
       "color": "OF0006-1056",
       "modelo": "One Flip TF587",
       "genero": "",
@@ -479,22 +480,6 @@
       "unidades": 2,
       "cantidad_talles": 1,
       "precio": 24750
-    },
-    {
-      "codigo": "OF0007-1059",
-      "nombre": "One Flip TF617",
-      "link": "https://articulo.mercadolibre.com.ar/MLA-2058661464-zapatillas-mujer-con-plataforma-one-flip-tf617-blancomarron-_JM",
-      "imagen": "https://http2.mlstatic.com/D_784248-MLA83942242943_042025-O.webp",
-      "color": "OF0007-1059",
-      "modelo": "One Flip TF617",
-      "genero": "",
-      "marca": "One",
-      "talles": {
-        "39": 1
-      },
-      "unidades": 1,
-      "cantidad_talles": 1,
-      "precio": 25190
     },
     {
       "codigo": "OF0007-10",
