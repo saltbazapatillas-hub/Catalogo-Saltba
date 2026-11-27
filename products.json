@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-27T01:21:19.845663+00:00",
+  "actualizado": "2026-11-27T15:55:01.297380+00:00",
   "total": 30,
   "productos": [
     {
@@ -12,11 +12,11 @@
       "genero": "",
       "marca": "Chimmy",
       "talles": {
-        "35/36": 9,
+        "35/36": 8,
         "37/38": 19,
         "39/40": 13
       },
-      "unidades": 41,
+      "unidades": 40,
       "cantidad_talles": 3,
       "precio": 20000
     },
@@ -76,7 +76,7 @@
       "codigo": "HA0060-128",
       "nombre": "Havaianas Slide Brasil",
       "link": "https://articulo.mercadolibre.com.ar/MLA-1449895339-ojota-chancleta-havaianas-slide-brasil-blanco-negro-_JM",
-      "imagen": "https://http2.mlstatic.com/D_960784-MLA118457502109_092026-O.webp",
+      "imagen": "https://http2.mlstatic.com/D_980546-MLA120783375244_112026-O.webp",
       "color": "HA0060-128",
       "modelo": "Havaianas Slide Brasil",
       "genero": "",
@@ -294,12 +294,12 @@
       "marca": "Ipanema",
       "talles": {
         "36": 3,
-        "37": 5,
+        "37": 4,
         "38": 9,
         "39": 11,
-        "40.5": 6
+        "40.5": 4
       },
-      "unidades": 34,
+      "unidades": 31,
       "cantidad_talles": 5,
       "precio": 11499
     },
@@ -316,10 +316,10 @@
         "36": 3,
         "37": 5,
         "38": 10,
-        "39": 10,
+        "39": 9,
         "40.5": 3
       },
-      "unidades": 31,
+      "unidades": 30,
       "cantidad_talles": 5,
       "precio": 18722
     },
@@ -355,11 +355,11 @@
       "talles": {
         "36": 2,
         "37": 1,
-        "38": 5,
+        "38": 4,
         "39": 7,
         "40.5": 2
       },
-      "unidades": 17,
+      "unidades": 16,
       "cantidad_talles": 5,
       "precio": 16307
     },
@@ -519,7 +519,7 @@
       "codigo": "RD0003-1638",
       "nombre": "Rider Street Slide AD",
       "link": "https://articulo.mercadolibre.com.ar/MLA-4075006008-ojotas-chancletas-rider-street-slide-ad-hombre-azul-385-ar-_JM",
-      "imagen": "https://http2.mlstatic.com/D_811842-MLA80426513973_112024-O.jpg",
+      "imagen": "https://http2.mlstatic.com/D_810600-MLA82867120526_032025-O.webp",
       "color": "RD0003-1638",
       "modelo": "Rider Street Slide AD",
       "genero": "",
