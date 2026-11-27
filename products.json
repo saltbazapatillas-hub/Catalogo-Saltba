@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-26T16:07:50.950453+00:00",
+  "actualizado": "2026-11-27T01:21:19.845663+00:00",
   "total": 30,
   "productos": [
     {
@@ -206,11 +206,11 @@
       "genero": "",
       "marca": "Havaianas",
       "talles": {
-        "41/42": 3,
+        "41/42": 2,
         "43/44": 4,
         "45/46": 1
       },
-      "unidades": 8,
+      "unidades": 7,
       "cantidad_talles": 3,
       "precio": 40526
     },
@@ -224,12 +224,12 @@
       "genero": "",
       "marca": "Havaianas",
       "talles": {
-        "39/40": 4,
+        "39/40": 3,
         "41/42": 5,
         "43/44": 3,
-        "45/46": 3
+        "45/46": 2
       },
-      "unidades": 15,
+      "unidades": 13,
       "cantidad_talles": 4,
       "precio": 40526
     },
@@ -255,7 +255,7 @@
       "codigo": "IP0002-1331",
       "nombre": "Ipanema ANAT CLASSIC SLIDE KIDS",
       "link": "https://articulo.mercadolibre.com.ar/MLA-2611398768-chancla-slide-ninos-ipanema-anat-classic-slide-kids-_JM",
-      "imagen": "https://http2.mlstatic.com/D_800671-MLA100383306619_122025-O.webp",
+      "imagen": "https://http2.mlstatic.com/D_695591-MLA100383306359_122025-O.jpg",
       "color": "IP0002-1331",
       "modelo": "Ipanema ANAT CLASSIC SLIDE KIDS",
       "genero": "",
@@ -315,11 +315,11 @@
       "talles": {
         "36": 3,
         "37": 5,
-        "38": 11,
+        "38": 10,
         "39": 10,
         "40.5": 3
       },
-      "unidades": 32,
+      "unidades": 31,
       "cantidad_talles": 5,
       "precio": 18722
     },
@@ -327,7 +327,7 @@
       "codigo": "IP0047-141",
       "nombre": "Ipanema Shine Slide Trendy",
       "link": "https://articulo.mercadolibre.com.ar/MLA-2155144899-ojotas-mujer-ipanema-shine-slide-trendy-negrobeige-36-ar-_JM",
-      "imagen": "https://http2.mlstatic.com/D_621670-MLA117251180378_102026-O.jpg",
+      "imagen": "https://http2.mlstatic.com/D_884422-MLA117211935124_102026-O.webp",
       "color": "IP0047-141",
       "modelo": "Ipanema Shine Slide Trendy",
       "genero": "",
@@ -485,7 +485,7 @@
       "codigo": "OF0007-10",
       "nombre": "One Flip TF617",
       "link": "https://articulo.mercadolibre.com.ar/MLA-1490848253-zapatillas-mujer-con-plataforma-one-flip-tf617-blanconegro-_JM",
-      "imagen": "https://http2.mlstatic.com/D_633790-MLA76268709125_052024-O.webp",
+      "imagen": "https://http2.mlstatic.com/D_702881-MLA83204890891_032025-O.jpg",
       "color": "OF0007-10",
       "modelo": "One Flip TF617",
       "genero": "",
@@ -526,11 +526,10 @@
       "marca": "Rider",
       "talles": {
         "38.5": 1,
-        "40": 1,
         "41": 1
       },
-      "unidades": 3,
-      "cantidad_talles": 3,
+      "unidades": 2,
+      "cantidad_talles": 2,
       "precio": 16784
     }
   ]
